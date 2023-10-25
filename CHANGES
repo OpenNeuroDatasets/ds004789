@@ -1,2 +1,4 @@
+2.0.0 2023-10-25
+  - Added subjects with electrode area data.  133 participants, 292 total experimental sessions.
 1.0.0 2023-10-10
   - Initial release.  245 sessions for 107 participants.
