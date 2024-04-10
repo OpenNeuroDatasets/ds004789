@@ -1,0 +1,128 @@
+name	x	y	z	size	group	hemisphere	type	tal.x	tal.y	tal.z	wb.region	ind.region	das.region	stein.region
+LB1	-22.4157	-10.9863	-24.7052860325028	-999	LB	L	depth	-20.2712	-13.6056	-20.5303	Left Hippocampus	n/a	SUB	Left Sub
+LB2	-27.0477	-9.99422	-26.013868457926	-999	LB	L	depth	-25.5325	-12.7344	-20.733	Left Hippocampus	n/a	CA1	Left CA1
+LB3	-30.5022	-10.8707	-28.8389060262807	-999	LB	L	depth	-29.929	-13.2565	-21.7076	Left Cerebral White Matter	entorhinal	n/a	n/a
+LB4	-39.1435	-12.0038	-33.0846496227366	-999	LB	L	depth	-35.904	-13.5172	-22.7429	Left FuG fusiform gyrus	fusiform	BA36	Left PRC
+LB5	-43.2036	-13.1027	-33.0662738290822	-999	LB	L	depth	-41.3529	-13.8651	-23.758	Left FuG fusiform gyrus	fusiform	BA36	Left PRC
+LB6	-45.9712	-13.7827	-33.3085562994439	-999	LB	L	depth	-46.6009	-13.2203	-24.9659	Left ITG inferior temporal gyrus	inferiortemporal	n/a	n/a
+LB7	-52.5585	-13.5595	-32.1837004197474	-999	LB	L	depth	-52.0498	-13.5683	-25.981	Left Cerebral White Matter	inferiortemporal	n/a	n/a
+LB8	-58.783	-12.6558	-31.9746357816128	-999	LB	L	depth	-56.9724	-14.0032	-26.9758	Left MTG middle temporal gyrus	inferiortemporal	n/a	n/a
+LB9	-64.0584	-12.3405	-30.6632683370198	-999	LB	L	depth	-63.4867	-13.9501	-27.0262	Left ITG inferior temporal gyrus	middletemporal	n/a	n/a
+LC1	-26.8449	-25.4787	-17.4135720110527	-999	LC	L	depth	-24.313	-26.4638	-11.7436	Left Cerebral White Matter	parahippocampal	n/a	n/a
+LC2	-31.1306	-25.4008	-20.1307996509855	-999	LC	L	depth	-29.5745	-25.5926	-11.9465	Left PHG parahippocampal gyrus	parahippocampal	BA35	Left PRC
+LC3	-35.1429	-25.6922	-20.6299030065849	-999	LC	L	depth	-35.5757	-25.4002	-10.9714	Left PHG parahippocampal gyrus	parahippocampal	BA36	Left PRC
+LC4	-39.5516	-25.0473	-18.652038814876	-999	LC	L	depth	-41.0378	-25.5215	-10.9813	Left Cerebral White Matter	fusiform	n/a	n/a
+LC5	-45.1164	-24.067	-17.5350105554136	-999	LC	L	depth	-46.4998	-25.6428	-10.9913	Left Cerebral White Matter	fusiform	n/a	n/a
+LC6	-49.2918	-23.8326	-18.0453191868731	-999	LC	L	depth	-50.9096	-25.9384	-10.9606	Left Cerebral White Matter	middletemporal	n/a	n/a
+LC7	-55.8004	-24.1152	-18.5029888217218	-999	LC	L	depth	-56.3715	-26.0597	-10.9705	Left MTG middle temporal gyrus	middletemporal	n/a	n/a
+LC8	-64.6611	-25.3104	-18.2804481393078	-999	LC	L	depth	-62.3729	-25.8674	-9.99551	Left MTG middle temporal gyrus	middletemporal	n/a	n/a
+LC9	-69.9537	-25.6758	-16.7308818498893	-999	LC	L	depth	-67.835	-25.9887	-10.0054	Left MTG middle temporal gyrus	middletemporal	n/a	n/a
+LF1	-24.1702	-34.9076	-16.9321003251271	-999	LF	L	depth	-22.9232	-36.5989	-12.9019	Left FuG fusiform gyrus	fusiform	n/a	n/a
+LF2	-28.5735	-34.9594	-17.2604325031855	-999	LF	L	depth	-28.3983	-36.4936	-11.9066	Left FuG fusiform gyrus	fusiform	n/a	n/a
+LF3	-32.4872	-34.6932	-17.1240715785088	-999	LF	L	depth	-33.8605	-36.6149	-11.9165	Left FuG fusiform gyrus	fusiform	n/a	n/a
+LF4	-37.6751	-33.8242	-18.4422323925825	-999	LF	L	depth	-39.6479	-35.6565	-12.1396	Left Cerebral White Matter	fusiform	n/a	n/a
+LF5	-45.0289	-33.0104	-20.3599220091049	-999	LF	L	depth	-45.0968	-36.0045	-13.1546	Left ITG inferior temporal gyrus	inferiortemporal	n/a	n/a
+LF6	-50.3449	-33.7143	-19.7971966017446	-999	LF	L	depth	-50.5587	-36.1257	-13.1645	Left Cerebral White Matter	inferiortemporal	n/a	n/a
+LF7	-56.4125	-33.4572	-19.9029194620244	-999	LF	L	depth	-56.0207	-36.247	-13.1744	Left ITG inferior temporal gyrus	inferiortemporal	n/a	n/a
+LF8	-65.03	-34.4693	-19.2555753996863	-999	LF	L	depth	-62.1092	-36.7774	-13.1082	Left ITG inferior temporal gyrus	inferiortemporal	n/a	n/a
+LF9	-69.5064	-33.9946	-19.436604172528	-999	LF	L	depth	-67.3706	-35.9061	-13.3109	Left MTG middle temporal gyrus	inferiortemporal	n/a	n/a
+LT1	-20.808	2.57294	-19.7062104059488	-999	LT	L	depth	-16.9027	-0.283935	-15.7677	Left Ent entorhinal area	n/a	n/a	n/a
+LT2	-22.66	3.06312	-18.8129717444282	-999	LT	L	depth	-19.0204	0.291055	-14.8437	Left Ent entorhinal area	n/a	n/a	n/a
+LT3	-25.641	2.04546	-19.2387964742464	-999	LT	L	depth	-22.3779	-0.178759	-14.7725	Left Ent entorhinal area	n/a	n/a	n/a
+LT4	-28.9108	1.35842	-18.5903884006647	-999	LT	L	depth	-25.7485	-0.421944	-13.6961	Left Ent entorhinal area	insula	n/a	n/a
+LT5	-31.8088	1.95714	-19.3476551066871	-999	LT	L	depth	-28.9053	0.100809	-13.8178	Left Ent entorhinal area	insula	n/a	n/a
+LT6	-35.8321	1.80706	-18.4901887414025	-999	LT	L	depth	-32.8023	-0.0553337	-12.7617	Left Cerebral White Matter	n/a	n/a	n/a
+LT7	-39.8418	2.78499	-17.3860484009086	-999	LT	L	depth	-37.0245	0.868131	-11.9187	Left PIns posterior insula	insula	n/a	n/a
+LT8	-41.7457	2.13568	-17.0552746635766	-999	LT	L	depth	-39.3297	0.224132	-11.807	Left PIns posterior insula	superiortemporal	n/a	n/a
+LT9	-44.2991	2.4789	-15.9596535014952	-999	LT	L	depth	-42.4997	0.973304	-10.9235	Left PP planum polare	superiortemporal	n/a	n/a
+LT10	-45.9949	1.34439	-16.1942759944531	-999	LT	L	depth	-44.8049	0.329313	-10.8117	Left PP planum polare	superiortemporal	n/a	n/a
+LX1	-6.9923	-46.3992	24.7874754799888	-999	LX	L	depth	-5.77237	-42.1398	22.6194	Left Cerebral White Matter	isthmuscingulate	n/a	n/a
+LX2	-11.1309	-48.0485	27.072997216585	-999	LX	L	depth	-11.2476	-42.0299	23.7097	Left Cerebral White Matter	precuneus	n/a	n/a
+LX7	-46.0293	-35.2468	28.1579917055636	-999	LX	L	depth	-43.3357	-36.7085	32.731	Left Cerebral White Matter	supramarginal	n/a	n/a
+LX8	-51.4972	-34.2264	29.7378006920736	-999	LX	L	depth	-48.824	-36.3672	34.9231	Left SMG supramarginal gyrus	supramarginal	n/a	n/a
+LX9	-57.633	-33.9817	32.1558480006199	-999	LX	L	depth	-55.164	-34.8599	36.8651	Left SMG supramarginal gyrus	supramarginal	n/a	n/a
+LX10	-65.4153	-33.9969	35.2025935413498	-999	LX	L	depth	-62.0301	-33.2655	38.7853	Left SMG supramarginal gyrus	supramarginal	n/a	n/a
+RB1	21.5599	-13.4607	-29.9078848489304	-999	RB	R	depth	23.2771	-14.5339	-24.2789	Right PHG parahippocampal gyrus	entorhinal	ERC	Right EC
+RB2	26.0911	-13.5179	-28.1245247790903	-999	RB	R	depth	27.6736	-14.0119	-23.3044	Right Cerebral White Matter	entorhinal	n/a	Right MTL WM
+RB3	31.896	-15.5908	-30.0178061928142	-999	RB	R	depth	33.1225	-13.664	-22.2894	Right PHG parahippocampal gyrus	parahippocampal	BA36	Right PRC
+RB4	37.6482	-15.8178	-28.2838022073028	-999	RB	R	depth	39.0975	-13.4032	-21.2541	Right FuG fusiform gyrus	fusiform	BA36	Right PRC
+RB5	41.5285	-15.4352	-26.4145302905153	-999	RB	R	depth	43.4941	-12.8812	-20.2795	Right ITG inferior temporal gyrus	inferiortemporal	n/a	n/a
+RB6	46.9829	-15.3451	-24.7728542269679	-999	RB	R	depth	48.9428	-12.5333	-19.2644	Right Cerebral White Matter	middletemporal	n/a	n/a
+RB7	54.5873	-15.1739	-24.3293057981395	-999	RB	R	depth	54.4921	-11.6893	-18.3459	Right MTG middle temporal gyrus	middletemporal	n/a	n/a
+RB8	61.7004	-14.2544	-22.0572219405258	-999	RB	R	depth	60.4669	-11.4286	-17.3105	Right MTG middle temporal gyrus	middletemporal	n/a	n/a
+RB9	65.4986	-13.705	-18.542488380745	-999	RB	R	depth	65.9158	-11.0806	-16.2954	Right MTG middle temporal gyrus	middletemporal	n/a	n/a
+RB10	69.4585	-13.4625	-17.8436589767154	-999	RB	R	depth	70.3255	-10.7852	-16.3261	Right MTG middle temporal gyrus	middletemporal	n/a	n/a
+RI1	22.0254	-7.24127	-37.095769855372	-999	RI	R	depth	24.6477	-9.21508	-30.5583	Right PHG parahippocampal gyrus	entorhinal	n/a	Right EC
+RI2	25.5256	-6.31455	-36.4180986963104	-999	RI	R	depth	28.1928	-7.52626	-29.8171	Right PHG parahippocampal gyrus	entorhinal	n/a	Right PRC
+RI3	30.807	-4.94682	-37.7993832348636	-999	RI	R	depth	31.7378	-5.83748	-29.076	Right PHG parahippocampal gyrus	entorhinal	n/a	Right PRC
+RI4	35.1363	-3.62431	-37.313963498302	-999	RI	R	depth	35.2828	-4.14858	-28.3349	Right FuG fusiform gyrus	fusiform	n/a	n/a
+RI5	38.5783	-2.72541	-35.6586149296465	-999	RI	R	depth	39.5548	-1.55432	-27.7663	Right ITG inferior temporal gyrus	fusiform	n/a	n/a
+RI6	41.3864	-0.647426	-33.8429308795464	-999	RI	R	depth	42.0475	0.308761	-27.0658	Right Cerebral White Matter	fusiform	n/a	n/a
+RI7	45.7147	1.92372	-32.0972815999497	-999	RI	R	depth	45.78	3.21664	-25.5124	Right MTG middle temporal gyrus	middletemporal	n/a	n/a
+RI8	51.0893	2.00894	-32.7086010816127	-999	RI	R	depth	49.3251	4.90546	-24.7712	Right MTG middle temporal gyrus	middletemporal	n/a	n/a
+RI9	55.463	3.12553	-31.4036258105156	-999	RI	R	depth	52.8701	6.59427	-24.0301	Right Cerebral White Matter	middletemporal	n/a	n/a
+RI10	59.0435	6.07743	-28.3161144220838	-999	RI	R	depth	57.7552	9.82419	-22.5325	Right TMP temporal pole	middletemporal	n/a	n/a
+RC1	25.5002	-33.8656	-11.0036674198751	-999	RC	R	depth	25.7057	-30.9961	-7.40086	Right Cerebral White Matter	n/a	n/a	n/a
+RC2	28.7775	-34.935	-11.9229980070935	-999	RC	R	depth	30.1155	-30.7006	-7.43155	Right Cerebral White Matter	n/a	n/a	n/a
+RC3	33.3619	-36.0337	-12.4965223339604	-999	RC	R	depth	36.1036	-30.6664	-7.40138	Right Cerebral White Matter	parahippocampal	n/a	n/a
+RC4	40.0719	-34.3587	-12.7921414125047	-999	RC	R	depth	41.6792	-30.2754	-8.49302	Right Cerebral White Matter	fusiform	n/a	n/a
+RC5	44.1956	-34.5524	-13.8734784248957	-999	RC	R	depth	46.9406	-31.1466	-8.29027	Right Cerebral White Matter	inferiortemporal	n/a	n/a
+RC6	49.8148	-31.9778	-12.5049257219475	-999	RC	R	depth	52.6164	-30.2593	-9.47841	Right Cerebral White Matter	inferiortemporal	n/a	n/a
+RC7	56.3914	-32.6912	-13.1557602506652	-999	RC	R	depth	57.5655	-30.2774	-10.4939	Right Cerebral White Matter	middletemporal	n/a	n/a
+RC8	64.1911	-31.8316	-11.341837162262	-999	RC	R	depth	63.0276	-30.1561	-10.4841	Right Cerebral White Matter	middletemporal	n/a	n/a
+RC9	70.5058	-32.49	-11.4454240320238	-999	RC	R	depth	68.4897	-30.0348	-10.4742	Right MTG middle temporal gyrus	middletemporal	n/a	n/a
+RF1	23.9963	-42.8213	-16.0934425682501	-999	RF	R	depth	25.0571	-41.9153	-13.6661	Right Cerebellum Exterior	fusiform	n/a	n/a
+RF2	27.6467	-44.0521	-16.7531815272851	-999	RF	R	depth	29.2662	-42.6123	-13.5039	Right FuG fusiform gyrus	fusiform	n/a	n/a
+RF3	31.4061	-44.7004	-18.9464158699024	-999	RF	R	depth	34.2153	-42.6304	-14.5194	Right FuG fusiform gyrus	fusiform	n/a	n/a
+RF4	34.3892	-44.9401	-20.0562391641721	-999	RF	R	depth	38.625	-42.3348	-14.55	Right Cerebral White Matter	fusiform	n/a	n/a
+RF5	37.7193	-45.9828	-20.9931613407974	-999	RF	R	depth	42.834	-43.0317	-14.3879	Right Cerebral White Matter	fusiform	n/a	n/a
+RF6	42.9329	-46.0582	-21.6000276489668	-999	RF	R	depth	47.2439	-42.7362	-14.4185	Right FuG fusiform gyrus	fusiform	n/a	n/a
+RF7	49.084	-46.8079	-22.1922016351686	-999	RF	R	depth	51.6536	-42.4407	-14.4492	Right ITG inferior temporal gyrus	inferiortemporal	n/a	n/a
+RF8	60.1599	-49.0811	-20.6758935793945	-999	RF	R	depth	56.3887	-43.2248	-14.2667	Right ITG inferior temporal gyrus	inferiortemporal	n/a	n/a
+RF9	67.4658	-48.1725	-20.7251420557242	-999	RF	R	depth	60.7853	-42.7028	-13.2922	Right ITG inferior temporal gyrus	inferiortemporal	n/a	n/a
+RF10	70.2133	-48.005	-18.7858864900535	-999	RF	R	depth	64.9943	-43.3997	-13.1299	n/a	middletemporal	n/a	n/a
+RP1	6.87609	-51.0091	53.7922078820432	-999	RP	R	depth	6.63629	-40.2843	52.2221	Right Cerebral White Matter	paracentral	n/a	n/a
+RP2	10.3344	-50.3201	55.1134414107549	-999	RP	R	depth	9.98059	-39.5833	53.248	Right Cerebral White Matter	paracentral	n/a	n/a
+RP3	14.1333	-51.4944	55.8685716370317	-999	RP	R	depth	14.1765	-40.0484	54.524	Right Cerebral White Matter	paracentral	n/a	n/a
+RP4	17.224	-51.9069	56.6326883860793	-999	RP	R	depth	18.573	-39.5215	55.5937	Right Cerebral White Matter	superiorparietal	n/a	n/a
+RP5	19.3901	-50.7995	58.1519071321194	-999	RP	R	depth	21.9173	-38.8206	56.6196	Right Cerebral White Matter	postcentral	n/a	n/a
+RP6	22.3432	-50.3727	60.9384141472333	-999	RP	R	depth	26.0999	-39.0542	58.9973	Right Cerebral White Matter	postcentral	n/a	n/a
+RP7	26.8318	-46.9396	63.4221047809647	-999	RP	R	depth	31.0226	-38.6145	60.0887	Right Cerebral White Matter	superiorparietal	n/a	n/a
+RP8	32.2039	-43.0616	64.7210927234392	-999	RP	R	depth	35.4192	-38.0876	61.1584	Right Cerebral White Matter	postcentral	n/a	n/a
+RP9	36.0498	-42.4677	66.0490691466552	-999	RP	R	depth	38.8638	-36.8907	62.0812	Right SPL superior parietal lobule	postcentral	n/a	n/a
+RP10	39.6509	-44.1613	68.2293870517329	-999	RP	R	depth	43.0465	-37.1243	64.4589	n/a	postcentral	n/a	n/a
+RX1	9.65184	-53.2939	17.2960176942764	-999	RX	R	depth	7.6344	-44.2496	18.5507	Right Cerebral White Matter	isthmuscingulate	n/a	n/a
+RX2	15.1969	-52.149	17.8706591473766	-999	RX	R	depth	14.3495	-43.3105	18.3992	Right Cerebral White Matter	isthmuscingulate	n/a	n/a
+RX6	42.2959	-51.3766	15.9808101758025	-999	RX	R	depth	40.0072	-43.4011	16.2907	Right Cerebral White Matter	inferiorparietal	n/a	n/a
+RX7	48.9869	-51.7126	15.7091886948474	-999	RX	R	depth	46.5215	-43.4539	16.3457	Right STG superior temporal gyrus	inferiorparietal	n/a	n/a
+RX8	55.6633	-50.8361	15.6663734550186	-999	RX	R	depth	53.5619	-43.5936	16.4225	Right STG superior temporal gyrus	inferiorparietal	n/a	n/a
+RX9	61.6977	-49.9199	13.3190464298498	-999	RX	R	depth	60.2901	-42.8858	15.1693	Right MTG middle temporal gyrus	inferiorparietal	n/a	n/a
+RX10	67.2455	-48.5781	13.7575622380775	-999	RX	R	depth	65.7521	-42.7644	15.1807	Right STG superior temporal gyrus	inferiorparietal	n/a	n/a
+RT1	51.9166	-4.30815	-7.10502527869938	-999	RT	R	depth	49.7737	1.91333	-4.24204	Right PP planum polare	superiortemporal	n/a	n/a
+RT2	55.7833	-5.52268	-8.49576339131672	-999	RT	R	depth	52.9305	1.39058	-4.12038	Right Cerebral White Matter	superiortemporal	n/a	n/a
+RT3	59.1718	-5.10197	-9.27129721465393	-999	RT	R	depth	56.288	1.86039	-4.1916	Right STG superior temporal gyrus	superiortemporal	n/a	n/a
+RT4	61.8121	-4.80444	-8.82638136610346	-999	RT	R	depth	59.4448	1.33763	-4.06994	Right STG superior temporal gyrus	superiortemporal	n/a	n/a
+RT5	64.5767	-4.59385	-7.3654414444807	-999	RT	R	depth	63.1277	0.72783	-3.92804	n/a	superiortemporal	n/a	n/a
+RT6	67.3305	-3.86756	-5.36794059231769	-999	RT	R	depth	66.472	1.42417	-2.99407	n/a	superiortemporal	n/a	n/a
+RT7	69.9195	-4.12696	-4.48107912952234	-999	RT	R	depth	69.6288	0.901413	-2.87241	n/a	superiortemporal	n/a	n/a
+RT8	72.8659	-4.43315	-3.86794062794055	-999	RT	R	depth	72.7856	0.378652	-2.75076	n/a	superiortemporal	n/a	n/a
+RT9	75.9781	-4.79163	-3.41016740944925	-999	RT	R	depth	75.9424	-0.144004	-2.62913	n/a	superiortemporal	n/a	n/a
+RT10	79.1395	-5.07087	-1.95539344467798	-999	RT	R	depth	79.086	-0.440241	-1.50232	n/a	superiortemporal	n/a	n/a
+RO1	-12.6529	40.0011	-28.19177602158	-999	RO	L	depth	-10.1004	38.1456	-25.3395	Left MOrG medial orbital gyrus	lateralorbitofrontal	n/a	n/a
+RO2	-4.99509	42.1127	-24.936767590947	-999	RO	L	depth	-3.09754	40.8005	-24.7661	Left GRe gyrus rectus	medialorbitofrontal	n/a	n/a
+RO3	5.18271	43.1293	-22.4595924269198	-999	RO	R	depth	5.16945	41.9318	-22.8373	Right GRe gyrus rectus	medialorbitofrontal	n/a	n/a
+RO4	14.1725	44.4312	-21.6354796418406	-999	RO	R	depth	11.8581	43.3244	-20.9694	Right Cerebral White Matter	medialorbitofrontal	n/a	n/a
+RO5	21.2817	45.8692	-20.887560568787	-999	RO	R	depth	18.5335	44.9436	-18.0963	Right MOrG medial orbital gyrus	lateralorbitofrontal	n/a	n/a
+RO6	27.3289	45.7914	-20.1926201082909	-999	RO	R	depth	25.5475	45.2565	-16.0152	Right AOrG anterior orbital gyrus	lateralorbitofrontal	n/a	n/a
+RO7	33.655	46.1113	-18.4803169852395	-999	RO	R	depth	33.2884	46.4749	-14.1067	Right LOrG lateral orbital gyrus	lateralorbitofrontal	n/a	n/a
+RO8	39.8164	46.6666	-16.671738398493	-999	RO	R	depth	39.977	47.8676	-12.2388	Right LOrG lateral orbital gyrus	parsorbitalis	n/a	n/a
+RO9	50.5868	47.5321	-9.87936945224131	-999	RO	R	depth	48.2307	49.2253	-9.30484	n/a	parsorbitalis	n/a	n/a
+RO10	56.0643	47.7319	-7.17115970402859	-999	RO	R	depth	53.6664	49.7998	-7.28459	n/a	parsorbitalis	n/a	n/a
+RQ1	7.489	32.4167	16.952973926861	-999	RQ	R	depth	8.15022	33.8104	13.7029	Right Cerebral White Matter	rostralanteriorcingulate	n/a	n/a
+RQ2	12.4515	31.5963	21.3175383478045	-999	RQ	R	depth	12.3328	33.5769	16.0807	Right ACgG anterior cingulate gyrus	superiorfrontal	n/a	n/a
+RQ5	26.7058	26.9711	27.5517416603274	-999	RQ	R	depth	28.7908	32.7957	20.9565	Right Cerebral White Matter	rostralmiddlefrontal	n/a	n/a
+RQ6	30.6966	26.2865	30.3481810903985	-999	RQ	R	depth	32.9735	32.5621	23.3343	Right Cerebral White Matter	rostralmiddlefrontal	n/a	n/a
+RQ7	35.5526	29.188	32.829597266895	-999	RQ	R	depth	38.4091	33.1462	25.5491	Right Cerebral White Matter	rostralmiddlefrontal	n/a	n/a
+RQ8	41.8715	31.968	33.691135698851	-999	RQ	R	depth	44.1701	32.6514	27.9923	Right MFG middle frontal gyrus	rostralmiddlefrontal	n/a	n/a
+RQ9	47.5684	31.2636	33.8307600242797	-999	RQ	R	depth	49.4182	32.0122	29.3119	Right MFG middle frontal gyrus	rostralmiddlefrontal	n/a	n/a
+RQ10	51.9201	30.1324	35.1569209515769	-999	RQ	R	depth	53.8016	32.7704	31.4831	n/a	rostralmiddlefrontal	n/a	n/a

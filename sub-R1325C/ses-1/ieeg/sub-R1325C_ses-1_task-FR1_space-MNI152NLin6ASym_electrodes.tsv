@@ -1,0 +1,129 @@
+name	x	y	z	size	group	hemisphere	type	tal.x	tal.y	tal.z	wb.region	ind.region	stein.region
+AMY1	-16.6943	-3.84124	-23.6762205309247	-999	AMY	L	depth	-13.6928	-8.87397	-14.1139	Left PHG parahippocampal gyrus	n/a	n/a
+AMY2	-19.0172	-2.49971	-24.43900446815	-999	AMY	L	depth	-16.0982	-7.59113	-13.9635	Left PHG parahippocampal gyrus	n/a	n/a
+AMY3	-23.035	-0.395308	-25.6073384134795	-999	AMY	L	depth	-20.296	-5.02313	-13.6846	Left Amygdala	n/a	Left Amy
+AMY4	-26.449	1.21045	-26.2924349349393	-999	AMY	L	depth	-23.9039	-3.09877	-13.4591	Left Amygdala	n/a	Left Amy
+AMY5	-29.379	2.38035	-26.638491799531	-999	AMY	L	depth	-26.9221	-1.81802	-13.2871	Left Cerebral White Matter	n/a	n/a
+AMY6	-33.3117	4.5496	-26.7537752952554	-999	AMY	L	depth	-30.5071	0.752073	-13.0297	Left Cerebral White Matter	n/a	n/a
+AMY7	-36.6454	6.77551	-26.5901584132033	-999	AMY	L	depth	-33.4795	3.32426	-12.794	Left Cerebral White Matter	insula	n/a
+AMY8	-40.0023	9.60901	-26.05589656584	-999	AMY	L	depth	-37.0875	5.24851	-12.5685	Left Cerebral White Matter	superiortemporal	n/a
+AMY9	-42.2916	11.6269	-25.2647548647881	-999	AMY	L	depth	-40.1056	6.52937	-12.3966	Left Cerebral White Matter	superiortemporal	n/a
+AMY10	-45.2135	14.4118	-24.2699401726866	-999	AMY	L	depth	-43.6906	9.09934	-12.1392	Left Cerebral White Matter	superiortemporal	n/a
+AMY11	-48.1514	16.314	-23.8390545242764	-999	AMY	L	depth	-46.6858	11.0259	-11.9354	Left Cerebral White Matter	superiortemporal	n/a
+AMY12	-50.9108	18.6519	-23.5277408131689	-999	AMY	L	depth	-49.6581	13.5981	-11.6997	Left Cerebral White Matter	superiortemporal	n/a
+HCH1	-17.4582	-8.09796	-22.2718594310487	-999	HCH	L	depth	-15.0784	-13.3981	-14.2936	Left PHG parahippocampal gyrus	n/a	Left EC
+HCH2	-19.8106	-7.89467	-22.9383812819961	-999	HCH	L	depth	-17.5296	-13.4066	-14.2071	Left Hippocampus	n/a	Left CA1
+HCH3	-25.0341	-5.66318	-24.6866873358612	-999	HCH	L	depth	-22.953	-10.8429	-13.8847	Left Hippocampus	n/a	Left CA1
+HCH4	-28.6013	-5.20979	-25.8434325911677	-999	HCH	L	depth	-27.2195	-10.2121	-13.7013	Left Hippocampus	n/a	Left CA1
+HCH5	-33.2546	-1.8179	-27.1236702926694	-999	HCH	L	depth	-31.4175	-7.64421	-13.4224	Left Cerebral White Matter	n/a	n/a
+HCH6	-39.7138	-0.427068	-25.5095308415162	-999	HCH	L	depth	-37.4993	-6.37407	-13.1421	Left Cerebral White Matter	n/a	n/a
+HCH7	-43.3076	0.82452	-23.9105923113907	-999	HCH	L	depth	-41.7429	-5.09751	-12.9269	Left Cerebral White Matter	superiortemporal	n/a
+HCH8	-46.924	2.98822	-22.4038453188461	-999	HCH	L	depth	-45.9636	-3.17524	-12.6798	Left Cerebral White Matter	superiortemporal	n/a
+HCB1	-25.0669	-14.8282	-24.3381144064811	-999	HCB	L	depth	-24.6127	-21.6474	-15.806	Left Cerebral White Matter	n/a	Left MTL WM
+HCB2	-28.2402	-14.0496	-23.849703574496	-999	HCB	L	depth	-27.5856	-20.5434	-14.2112	Left Cerebral White Matter	n/a	Left MTL WM
+HCB3	-31.8099	-14.2421	-22.4971043594176	-999	HCB	L	depth	-31.2169	-20.7326	-12.6586	Left Hippocampus	n/a	Left CA1
+HCB4	-33.7131	-14.66	-19.279184152627	-999	HCB	L	depth	-32.9647	-21.0924	-9.74806	Left Hippocampus	n/a	Left DG
+HCB5	-38.703	-14.2679	-17.8636701867834	-999	HCB	L	depth	-37.7758	-19.9947	-8.08835	Left Inf Lat Vent	n/a	n/a
+HCB6	-40.3733	-14.6791	-16.2046517341177	-999	HCB	L	depth	-39.5688	-20.1777	-6.60067	Left Cerebral White Matter	n/a	n/a
+HCB7	-45.0814	-15.7582	-12.9336792765314	-999	HCB	L	depth	-44.3804	-20.5481	-3.58195	Left Cerebral White Matter	superiortemporal	n/a
+HCB8	-48.2352	-16.2851	-11.4079126585401	-999	HCB	L	depth	-47.3989	-20.7353	-2.05094	Left Cerebral White Matter	superiortemporal	n/a
+HCB9	-51.8039	-16.3107	-9.95744910608791	-999	HCB	L	depth	-50.4174	-20.9226	-0.519902	Left STG superior temporal gyrus	superiortemporal	n/a
+HCB10	-54.8031	-13.7936	-3.2758705073298	-999	HCB	L	depth	-53.9125	-20.1599	4.22059	Left Cerebral White Matter	superiortemporal	n/a
+HCB11	-57.0555	-12.7003	-3.01304872153594	-999	HCB	L	depth	-56.9764	-20.1701	4.33904	Left Cerebral White Matter	superiortemporal	n/a
+HCB12	-59.3382	-10.578	1.80581110418101	-999	HCB	L	depth	-60.5625	-20.5221	7.59534	Left PT planum temporale	superiortemporal	n/a
+HCB13	-62.6446	-11.3517	5.25024292112522	-999	HCB	L	depth	-63.5357	-20.8721	10.8281	Left PT planum temporale	superiortemporal	n/a
+HCB14	-66.9116	-11.2381	4.36827728937468	-999	HCB	L	depth	-67.1895	-20.2382	11.0081	Left PT planum temporale	superiortemporal	n/a
+PBT1	-18.0418	-27.4413	-9.91809341564683	-999	PBT	L	depth	-17.9681	-37.4194	-3.9402	n/a	n/a	n/a
+PBT2	-19.9103	-29.2827	-10.0574028338277	-999	PBT	L	depth	-21.0777	-38.7214	-3.8957	Left Cerebral White Matter	n/a	n/a
+PBT3	-21.857	-29.6748	-10.1041415329788	-999	PBT	L	depth	-23.5287	-38.73	-3.80911	Left Cerebral White Matter	n/a	n/a
+PBT4	-26.1455	-30.7453	-8.50886711693733	-999	PBT	L	depth	-27.7957	-39.5672	-2.26661	Left Hippocampus	n/a	n/a
+PBT5	-29.5565	-32.3635	-8.79622755850137	-999	PBT	L	depth	-31.5182	-40.8713	-2.20051	Left Hippocampus	n/a	n/a
+PBT6	-32.3077	-34.4315	-8.13524873644629	-999	PBT	L	depth	-34.5825	-42.35	-0.733192	Left Hippocampus	n/a	n/a
+PBT7	-35.9358	-36.4861	-7.69718005624348	-999	PBT	L	depth	-38.2596	-43.8308	0.755731	Left Inf Lat Vent	n/a	n/a
+PBT8	-39.8783	-37.7495	-8.35733444105676	-999	PBT	L	depth	-42.5947	-45.1371	0.843466	Left Cerebral White Matter	n/a	n/a
+PBT9	-43.0363	-39.3347	-7.8217159467907	-999	PBT	L	depth	-45.6591	-46.6157	2.31077	Left Cerebral White Matter	bankssts	n/a
+PBT10	-47.3349	-40.7075	-9.67928059780787	-999	PBT	L	depth	-49.3586	-47.274	2.41282	Left Cerebral White Matter	middletemporal	n/a
+PBT11	-52.48	-42.938	-10.0152821689575	-999	PBT	L	depth	-53.6484	-48.7501	4.05983	Left Cerebral White Matter	middletemporal	n/a
+PBT12	-55.6805	-43.9715	-9.68383694486677	-999	PBT	L	depth	-57.3708	-50.0542	4.12601	Left Cerebral White Matter	middletemporal	n/a
+TO1	-7.10203	-54.1561	10.194015384914	-999	TO	L	depth	-6.83407	-67.7022	10.5149	Left PCu precuneus	precuneus	n/a
+TO2	-11.1176	-55.2461	7.35460383133344	-999	TO	L	depth	-10.6017	-68.8364	9.02407	Left LiG lingual gyrus	lingual	n/a
+TO3	-14.957	-56.4935	4.69355528847498	-999	TO	L	depth	-14.9141	-69.4966	9.15195	Left LiG lingual gyrus	precuneus	n/a
+TO4	-18.2136	-57.1323	3.2886479281946	-999	TO	L	depth	-18.5906	-69.5087	9.29418	Left Cerebral White Matter	lingual	n/a
+TO5	-22.7075	-58.715	3.33601672700415	-999	TO	L	depth	-22.9258	-70.8148	9.38403	Left LiG lingual gyrus	precuneus	n/a
+TO6	-25.3881	-58.9356	2.21900101514047	-999	TO	L	depth	-26.0349	-70.6551	7.94545	Left Cerebral White Matter	lingual	n/a
+TO7	-28.5955	-60.5193	2.04445816902781	-999	TO	L	depth	-29.7573	-71.9592	8.01164	Left Cerebral White Matter	n/a	n/a
+TO8	-32.6948	-62.1022	2.34986370162195	-999	TO	L	depth	-34.0925	-73.2653	8.10161	Left Cerebral White Matter	n/a	n/a
+TO9	-36.4077	-62.2845	3.24968886472508	-999	TO	L	depth	-37.7691	-73.2775	8.24372	Left Cerebral White Matter	lateraloccipital	n/a
+TO10	-39.8755	-65.2677	1.69924301391557	-999	TO	L	depth	-42.1494	-74.4137	6.77666	Left ITG inferior temporal gyrus	lateraloccipital	n/a
+TO11	-43.6749	-65.6722	2.64117178835997	-999	TO	L	depth	-45.849	-75.0718	6.88075	Left ITG inferior temporal gyrus	lateraloccipital	n/a
+TO12	-49.2928	-64.0151	4.38526005174305	-999	TO	L	depth	-50.1384	-75.086	7.04665	Left MTG middle temporal gyrus	middletemporal	Left Middle Temporal Gyrus
+TO13	-52.8644	-64.8827	4.96232844255256	-999	TO	L	depth	-53.2479	-76.3881	7.08917	Left MTG middle temporal gyrus	middletemporal	Left Middle Temporal Gyrus
+TO14	-58.0867	-65.9199	4.32322943162934	-999	TO	L	depth	-58.196	-77.6962	7.20281	Left MTG middle temporal gyrus	middletemporal	Left Middle Temporal Gyrus
+HG1	-37.7931	-29.3926	8.35285313032951	-999	HG	L	depth	-37.5546	-36.969	15.1264	Left Cerebral White Matter	superiortemporal	n/a
+HG2	-39.8551	-27.0989	7.53139144134196	-999	HG	L	depth	-39.3467	-34.2212	13.7923	Left Cerebral White Matter	superiortemporal	n/a
+HG3	-44.2672	-24.4911	6.8928116894175	-999	HG	L	depth	-42.9541	-30.8332	12.5671	Left TTG transverse temporal gyrus	transversetemporal	n/a
+HG4	-46.8838	-21.4769	6.04559313640512	-999	HG	L	depth	-44.7233	-27.4394	11.271	Left TTG transverse temporal gyrus	superiortemporal	n/a
+HG5	-50.7465	-18.8267	5.20366618262549	-999	HG	L	depth	-48.3537	-24.6976	10.0079	Left TTG transverse temporal gyrus	superiortemporal	n/a
+HG6	-52.1006	-14.9358	4.92364013828597	-999	HG	L	depth	-50.0547	-20.8276	10.3068	Left TTG transverse temporal gyrus	transversetemporal	n/a
+HG7	-54.408	-11.6385	3.07541407909028	-999	HG	L	depth	-53.7081	-18.7317	9.00576	Left TTG transverse temporal gyrus	superiortemporal	n/a
+HG8	-56.6114	-7.26454	0.236049154195647	-999	HG	L	depth	-56.0218	-14.8638	9.32834	Left Cerebral White Matter	superiortemporal	n/a
+HG9	-59.8268	-4.89784	-2.2870163137052	-999	HG	L	depth	-59.0623	-12.7659	8.00359	Left STG superior temporal gyrus	superiortemporal	n/a
+HG10	-62.284	-2.56487	-3.79476511734588	-999	HG	L	depth	-61.4672	-10.0201	6.69308	Left STG superior temporal gyrus	superiortemporal	n/a
+ACC1	3.61479	36.0186	19.9425680579069	-999	ACC	R	depth	8.30809	29.6098	36.1773	Right ACgG anterior cingulate gyrus	caudalanteriorcingulate	Right ACg
+ACC2	-0.806225	35.439	18.9865739225242	-999	ACC	L	depth	4.63147	29.5978	36.3194	n/a	rostralanteriorcingulate	n/a
+ACC3	-5.87947	34.2229	17.9651221791689	-999	ACC	L	depth	0.342084	29.5835	36.4852	Left ACgG anterior cingulate gyrus	superiorfrontal	Left ACg
+ACC4	-12.2173	33.0536	17.3775715734661	-999	ACC	L	depth	-5.17285	29.5654	36.6985	Left ACgG anterior cingulate gyrus	superiorfrontal	Left ACg
+ACC5	-16.7086	31.844	18.3837944808971	-999	ACC	L	depth	-9.508	28.2591	36.7885	Left Cerebral White Matter	superiorfrontal	n/a
+ACC6	-21.1034	32.636	20.4473046948439	-999	ACC	L	depth	-15.023	28.241	37.0017	Left Cerebral White Matter	rostralmiddlefrontal	n/a
+ACC7	-25.0922	34.7756	22.8511809773096	-999	ACC	L	depth	-19.8793	29.5169	37.2672	Left Cerebral White Matter	rostralmiddlefrontal	n/a
+ACC8	-30.3701	35.8534	22.4894340753713	-999	ACC	L	depth	-25.3943	29.4985	37.4804	Left Cerebral White Matter	rostralmiddlefrontal	n/a
+OFC1	-0.102346	42.801	-17.0311092585519	-999	OFC	L	depth	3.84207	42.0742	-0.557368	n/a	medialorbitofrontal	n/a
+OFC2	-3.83745	43.9792	-15.6450646265694	-999	OFC	L	depth	-0.356753	41.7203	2.72271	Left ACgG anterior cingulate gyrus	medialorbitofrontal	Left ACg
+OFC3	-5.98703	43.9389	-15.5551435157445	-999	OFC	L	depth	-2.80783	41.7122	2.81749	Left MFC medial frontal cortex	medialorbitofrontal	n/a
+OFC4	-9.85701	41.9755	-13.695462096169	-999	OFC	L	depth	-5.87217	40.2401	4.41717	Left MFC medial frontal cortex	medialorbitofrontal	n/a
+OFC5	-15.1578	40.9368	-12.4636288942073	-999	OFC	L	depth	-10.1163	40.056	6.1401	Left Cerebral White Matter	medialorbitofrontal	n/a
+OFC6	-19.0245	40.036	-12.2630580475364	-999	OFC	L	depth	-13.7929	40.0438	6.28222	Left Cerebral White Matter	lateralorbitofrontal	n/a
+OFC7	-24.2114	39.3906	-11.4954841557143	-999	OFC	L	depth	-18.037	39.8598	8.00515	Left Cerebral White Matter	lateralorbitofrontal	n/a
+OFC8	-29.5175	37.3823	-10.7330209120866	-999	OFC	L	depth	-21.7142	38.3857	9.62849	Left AOrG anterior orbital gyrus	lateralorbitofrontal	n/a
+OFC9	-32.7923	37.2392	-8.94989397040488	-999	OFC	L	depth	-24.7327	38.2057	11.304	Left Cerebral White Matter	lateralorbitofrontal	n/a
+OFC10	-36.4693	37.0875	-6.82581556420454	-999	OFC	L	depth	-28.364	38.0236	13.0034	Left Cerebral White Matter	lateralorbitofrontal	n/a
+OFC11	-40.8506	37.0144	-6.18253045194101	-999	OFC	L	depth	-32.6535	38.0094	13.1693	Left Cerebral White Matter	rostralmiddlefrontal	n/a
+OFC12	-45.2416	37.1643	-4.28282353210242	-999	OFC	L	depth	-36.8975	37.8253	14.8922	Left Cerebral White Matter	rostralmiddlefrontal	n/a
+OFC13	-48.4375	36.2602	-4.98726918916254	-999	OFC	L	depth	-40.6199	36.5212	14.9584	Left Cerebral White Matter	parstriangularis	n/a
+OFC14	-50.9194	36.1261	-4.33280721445327	-999	OFC	L	depth	-43.6385	36.3411	16.6339	Left Cerebral White Matter	parstriangularis	n/a
+PPF1	-0.104168	21.355	43.4656226634883	-999	PPF	L	depth	4.76115	10.0826	60.2458	Right SMC supplementary motor cortex	superiorfrontal	n/a
+PPF2	-2.42821	20.6932	46.7324895981746	-999	PPF	L	depth	3.01342	9.73662	63.4312	n/a	superiorfrontal	n/a
+PPF3	-4.5965	18.0811	50.8001575211647	-999	PPF	L	depth	-0.618398	8.09263	66.6115	Left SMC supplementary motor cortex	superiorfrontal	n/a
+PPF4	-6.80362	17.2716	50.8162406801248	-999	PPF	L	depth	-3.68225	8.08255	66.7301	Left SMC supplementary motor cortex	superiorfrontal	n/a
+PPF5	-9.75379	17.1837	52.5068375645761	-999	PPF	L	depth	-7.92636	7.89844	68.4531	Left Cerebral White Matter	superiorfrontal	n/a
+PPF6	-14.2795	18.529	54.9891860035228	-999	PPF	L	depth	-12.7833	7.71233	70.1997	Left Cerebral White Matter	superiorfrontal	n/a
+PPF7	-17.5602	19.5113	58.2697739016054	-999	PPF	L	depth	-15.8018	7.5322	71.8752	Left SFG superior frontal gyrus	superiorfrontal	n/a
+PPF8	-22.5424	19.723	58.7762186922242	-999	PPF	L	depth	-20.704	7.51603	72.0648	Left SFG superior frontal gyrus	superiorfrontal	n/a
+PPF9	-26.3513	19.2402	59.322528245971	-999	PPF	L	depth	-23.7226	7.33603	73.7403	Left SFG superior frontal gyrus	superiorfrontal	n/a
+PPF10	-31.2736	18.3187	58.2790385825117	-999	PPF	L	depth	-28.012	7.32185	73.9062	Left MFG middle frontal gyrus	caudalmiddlefrontal	n/a
+PPF11	-35.0617	17.3538	57.6879687752019	-999	PPF	L	depth	-31.6885	7.30977	74.0483	Left MFG middle frontal gyrus	caudalmiddlefrontal	n/a
+PPF12	-37.8321	16.5543	58.6197441087678	-999	PPF	L	depth	-34.707	7.12965	75.7239	Left MFG middle frontal gyrus	caudalmiddlefrontal	n/a
+APF1	0.667774	56.4672	3.04772766858222	-999	APF	R	depth	6.02192	48.7433	21.7261	Right ACgG anterior cingulate gyrus	superiorfrontal	Right ACg
+APF2	-0.806731	56.4519	4.18960223326675	-999	APF	L	depth	4.84168	48.5692	23.3306	n/a	superiorfrontal	n/a
+APF3	-3.26107	56.0321	5.23538059428022	-999	APF	L	depth	3.04865	48.3933	24.9589	Left MSFG superior frontal gyrus medial segment	superiorfrontal	n/a
+APF4	-6.46705	55.1546	4.53055484758713	-999	APF	L	depth	0.597571	48.3852	25.0535	Left MSFG superior frontal gyrus medial segment	superiorfrontal	n/a
+APF5	-9.71562	54.6993	7.21349464240361	-999	APF	L	depth	-1.76293	48.0371	28.2625	Left Cerebral White Matter	superiorfrontal	n/a
+APF6	-15.3656	52.5926	10.1008011024642	-999	APF	L	depth	-7.1873	47.6791	31.59	Left Cerebral White Matter	superiorfrontal	n/a
+APF7	-19.256	51.7282	10.8639362108419	-999	APF	L	depth	-10.2059	47.4991	33.2655	Left Cerebral White Matter	rostralmiddlefrontal	n/a
+APF8	-24.4991	51.8697	13.3406144091234	-999	APF	L	depth	-13.7919	47.1471	36.522	Left SFG superior frontal gyrus	rostralmiddlefrontal	n/a
+TPJ1	-38.2857	-41.0506	10.3633292312876	-999	TPJ	L	depth	-37.8758	-48.937	17.5573	Left Cerebral White Matter	inferiorparietal	n/a
+TPJ2	-41.3638	-41.8274	12.4123957393539	-999	TPJ	L	depth	-40.8943	-49.117	19.2329	Left Cerebral White Matter	inferiorparietal	n/a
+TPJ3	-44.6275	-41.8567	12.3234525619813	-999	TPJ	L	depth	-44.571	-49.1291	19.375	Left Cerebral White Matter	inferiorparietal	n/a
+TPJ4	-48.1016	-43.7623	13.8504885290673	-999	TPJ	L	depth	-48.861	-50.6053	21.022	Left STG superior temporal gyrus	inferiorparietal	n/a
+TPJ5	-51.6507	-44.6675	13.3082567890235	-999	TPJ	L	depth	-53.1503	-50.6194	21.1879	Left STG superior temporal gyrus	supramarginal	n/a
+TPJ6	-54.862	-45.4862	15.2926925135735	-999	TPJ	L	depth	-56.7816	-50.8014	22.8872	Left STG superior temporal gyrus	supramarginal	n/a
+TPJ7	-60.1414	-43.3633	16.7887370481266	-999	TPJ	L	depth	-61.071	-50.8156	23.0529	Left Cerebral White Matter	supramarginal	n/a
+TPJ8	-64.7397	-42.4057	18.6076683767084	-999	TPJ	L	depth	-65.3151	-50.9997	24.7759	Left SMG supramarginal gyrus	supramarginal	n/a
+HCT1	-30.0331	-20.2278	-13.5155265189991	-999	HCT	L	depth	-29.9709	-27.423	-5.87479	Left Hippocampus	n/a	Left CA2
+HCT2	-31.8326	-20.6419	-12.1602192543701	-999	HCT	L	depth	-31.7639	-27.6061	-4.38708	Left Hippocampus	n/a	Left CA2
+HCT3	-37.0913	-23.3653	-13.3082457441427	-999	HCT	L	depth	-37.9831	-30.2102	-4.29807	Left Hippocampus	n/a	Left CA1
+HCT4	-41.5216	-24.6279	-13.4291459732212	-999	HCT	L	depth	-42.3182	-31.5164	-4.21027	Left Cerebral White Matter	n/a	n/a
+HCT5	-45.6809	-24.5172	-14.4938463057352	-999	HCT	L	depth	-46.6758	-32.0004	-5.51337	Left Cerebral White Matter	superiortemporal	n/a
+HCT6	-49.5818	-25.8805	-14.0768374215705	-999	HCT	L	depth	-52.2823	-34.6022	-5.44602	Left Cerebral White Matter	superiortemporal	n/a
+HCT7	-53.5375	-26.28	-13.7343326081961	-999	HCT	L	depth	-57.2302	-35.9107	-5.33656	Left Cerebral White Matter	middletemporal	n/a
+HCT8	-58.0401	-27.5809	-14.7649748976737	-999	HCT	L	depth	-61.5653	-37.2169	-5.24878	Left Cerebral White Matter	middletemporal	n/a
