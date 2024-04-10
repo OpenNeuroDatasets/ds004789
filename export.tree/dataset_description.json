@@ -1,0 +1,11 @@
+{
+    "Name": "Delayed Free Recall of Word Lists",
+    "BIDSVersion": "1.7.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Haydn G. Herrema",
+        "Michael J. Kahana"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds004789.v3.0.0",
+    "License": "CC0"
+}

@@ -1,0 +1,101 @@
+name	x	y	z	size	group	hemisphere	type	tal.x	tal.y	tal.z	wb.region	ind.region
+PF1	51.8874	23.2733	-17.5252166444143	-999	PF	R	strip	43.2144	22.3429	-12.146	n/a	parsorbitalis
+PF2	55.707	18.037	-5.69426710750803	-999	PF	R	strip	50.6115	25.1162	-6.57049	n/a	parsorbitalis
+PF3	59.3871	23.6363	-1.59380643105974	-999	PF	R	strip	56.0514	28.0598	2.19648	n/a	parstriangularis
+PF4	58.6802	28.3643	19.0615490549537	-999	PF	R	strip	54.968	32.5578	12.426	n/a	parstriangularis
+PF5	53.3936	35.1011	24.3875124673985	-999	PF	R	strip	50.6604	34.7386	22.1868	n/a	rostralmiddlefrontal
+PF6	46.9299	39.675	32.1514425182093	-999	PF	R	strip	44.8076	35.8345	30.6508	n/a	rostralmiddlefrontal
+PMF1	46.1009	29.6371	-21.0433457039852	-999	PMF	R	strip	40.616	30.3839	-17.2158	n/a	lateralorbitofrontal
+PMF2	48.5633	38.8156	-19.7432013063899	-999	PMF	R	strip	47.9144	38.1919	-15.968	n/a	parsorbitalis
+PMF3	54.9662	43.1505	-9.37622764553117	-999	PMF	R	strip	50.8546	44.1262	-8.25567	n/a	parstriangularis
+PMF4	51.7845	50.2555	3.04027471869919	-999	PMF	R	strip	48.0147	48.9854	1.36468	n/a	parstriangularis
+PMF5	47.6062	51.02	15.2429605593261	-999	PMF	R	strip	44.9423	50.2178	11.06	n/a	rostralmiddlefrontal
+PMF6	39.8487	52.34	26.6766097609441	-999	PMF	R	strip	39.4959	52.3144	20.7534	n/a	rostralmiddlefrontal
+AMF1	0.63246	50.4098	-18.3532152196571	-999	AMF	R	strip	2.50797	50.881	-15.5415	n/a	medialorbitofrontal
+AMF2	2.57253	56.1742	-26.496247644882	-999	AMF	R	strip	5.0697	55.9597	-24.6593	n/a	medialorbitofrontal
+AMF3	6.46886	62.6382	-26.0317207728033	-999	AMF	R	strip	10.2828	61.537	-23.768	n/a	lateralorbitofrontal
+AMF4	9.58636	67.2075	-19.6294103891963	-999	AMF	R	strip	12.7392	68.1019	-17.9695	n/a	frontalpole
+AMF5	9.94217	71.8912	-7.05926992004879	-999	AMF	R	strip	12.7948	72.6383	-8.5856	n/a	frontalpole
+AMF6	15.1761	72.6658	2.6943442443194	-999	AMF	R	strip	14.3073	73.0763	1.8391	n/a	rostralmiddlefrontal
+AMF7	16.1779	70.4927	11.6471910289696	-999	AMF	R	strip	15.1328	69.3986	11.0717	n/a	rostralmiddlefrontal
+AMF8	18.4753	65.4915	23.6014292208688	-999	AMF	R	strip	17.29	63.7396	20.1056	n/a	rostralmiddlefrontal
+AF1	5.84624	40.6265	-29.7035602461496	-999	AF	R	strip	5.42292	39.8847	-26.5343	n/a	medialorbitofrontal
+AF2	11.1328	50.3558	-26.7038027599161	-999	AF	R	strip	7.89572	51.0472	-26.0927	n/a	medialorbitofrontal
+AF3	7.09562	62.1167	-25.9963269267993	-999	AF	R	strip	10.3791	60.5052	-23.8849	n/a	lateralorbitofrontal
+AF4	13.9616	68.6575	-23.6939791113047	-999	AF	R	strip	14.7576	70.2542	-16.642	n/a	frontalpole
+AF5	21.1195	71.1782	-15.2781353426651	-999	AF	R	strip	17.6391	69.8785	-8.69164	n/a	frontalpole
+AF6	24.542	69.5057	2.69600146446837	-999	AF	R	strip	21.4294	70.4832	1.84481	n/a	rostralmiddlefrontal
+AF7	33.0927	62.1996	7.87694916869946	-999	AF	R	strip	22.8244	66.8475	11.1111	n/a	rostralmiddlefrontal
+AF8	25.0623	67.5466	13.3371740785831	-999	AF	R	strip	23.9576	60.6621	18.9484	n/a	rostralmiddlefrontal
+RAIH1	1.02961	55.8687	-24.6132152421887	-999	RAIH	R	strip	2.62875	56.7456	-23.6939	n/a	medialorbitofrontal
+RAIH2	-0.926519	59.0555	-17.7529778089912	-999	RAIH	L	strip	1.8341	58.1029	-14.7224	n/a	medialorbitofrontal
+RAIH3	-0.585512	62.5556	-5.49023494080857	-999	RAIH	L	strip	2.0821	60.5757	-5.57257	n/a	medialorbitofrontal
+RAIH4	-1.01944	63.9233	2.8734669123692	-999	RAIH	L	strip	1.22058	61.8902	5.07913	n/a	superiorfrontal
+RAIH5	-0.242729	64.1821	17.3305436457705	-999	RAIH	L	strip	2.68496	62.8686	16.0404	n/a	superiorfrontal
+RAIH6	-1.56455	57.6027	27.3179555366751	-999	RAIH	L	strip	6.78283	60.9913	25.675	n/a	superiorfrontal
+LAIH1	0.251282	56.3806	-23.6428024437424	-999	LAIH	R	strip	2.62875	56.7456	-23.6939	n/a	medialorbitofrontal
+LAIH2	-1.07219	61.5343	-16.1942878711752	-999	LAIH	L	strip	1.8341	58.1029	-14.7224	n/a	medialorbitofrontal
+LAIH3	-0.120381	61.0227	-5.3822847383007	-999	LAIH	L	strip	0.943216	60.492	-5.63383	n/a	medialorbitofrontal
+LAIH4	0.333763	61.6081	7.73436046677275	-999	LAIH	R	strip	1.22058	61.8902	5.07913	n/a	superiorfrontal
+LAIH5	-0.630374	60.3448	19.0122406905634	-999	LAIH	L	strip	2.68496	62.8686	16.0404	n/a	superiorfrontal
+LAIH6	0.904134	58.2399	30.338092088691	-999	LAIH	R	strip	6.78283	60.9913	25.675	n/a	superiorfrontal
+RPIH1	0.109659	45.7814	-17.7513295933054	-999	RPIH	R	strip	-0.47307	50.5148	-13.7529	n/a	medialorbitofrontal
+RPIH2	0.827362	51.216	-2.00420984307709	-999	RPIH	R	strip	0.470011	50.8876	-3.8357	n/a	rostralanteriorcingulate
+RPIH3	-4.87064	50.681	14.7074537995601	-999	RPIH	L	strip	-0.132093	50.2169	5.60617	n/a	superiorfrontal
+RPIH4	-0.335405	51.4222	15.5335555560602	-999	RPIH	L	strip	0.241535	50.595	16.4336	n/a	superiorfrontal
+RPIH5	-3.91029	41.5146	22.4540372561208	-999	RPIH	L	strip	0.711427	49.9405	27.1279	n/a	superiorfrontal
+RPIH6	-1.80218	47.0597	42.9531951820503	-999	RPIH	L	strip	3.55538	48.4216	37.8242	n/a	superiorfrontal
+LPIH1	0.0705779	48.436	-16.2750372650882	-999	LPIH	R	strip	-0.406162	50.5933	-14.7238	n/a	medialorbitofrontal
+LPIH2	-1.72916	46.877	-3.93885426966521	-999	LPIH	L	strip	-1.14206	49.7303	-4.04459	n/a	rostralanteriorcingulate
+LPIH3	-1.06865	53.0837	3.42812322460268	-999	LPIH	L	strip	-0.132093	50.2169	5.60617	n/a	superiorfrontal
+LPIH4	-0.966012	48.0906	18.2202408445301	-999	LPIH	L	strip	-0.897357	50.5108	16.3661	n/a	superiorfrontal
+LPIH5	0.0855926	47.839	30.2072330796869	-999	LPIH	R	strip	0.711427	49.9405	27.1279	n/a	superiorfrontal
+LPIH6	-1.15873	47.8454	39.9259563512729	-999	LPIH	L	strip	2.48338	48.4114	36.6941	n/a	superiorfrontal
+AD1	0.105935	50.89	-18.3074044537042	-999	AD	R	depth	1.36907	50.7973	-15.6028	Right MFC medial frontal cortex	medialorbitofrontal
+AD2	5.81172	50.1481	-13.9715783995028	-999	AD	R	depth	5.68641	49.7082	-10.6206	Right MFC medial frontal cortex	medialorbitofrontal
+AD3	7.59077	48.1965	-6.27612516116412	-999	AD	R	depth	6.45328	48.2111	-3.88051	Right MSFG superior frontal gyrus medial segment	medialorbitofrontal
+AD4	11.0572	50.3357	1.48892678607594	-999	AD	R	depth	10.5111	49.1297	2.75918	Right MSFG superior frontal gyrus medial segment	superiorfrontal
+AD5	10.6164	50.0432	9.29726148807091	-999	AD	R	depth	11.345	47.7383	9.06975	Right MSFG superior frontal gyrus medial segment	superiorfrontal
+AD6	11.3599	45.486	20.5725586173076	-999	AD	R	depth	13.2508	46.3569	16.5105	Right Cerebral White Matter	superiorfrontal
+AD7	12.281	42.2622	29.6271466271337	-999	AD	R	depth	14.0175	44.8915	23.8838	Right Cerebral White Matter	superiorfrontal
+AD8	13.9468	39.1142	34.7268732510017	-999	AD	R	depth	16.0865	42.5515	30.1288	Right Cerebral White Matter	superiorfrontal
+ADM1	1.99231	50.5579	-16.6595954164589	-999	ADM	R	depth	2.99175	50.2501	-13.6277	Right MFC medial frontal cortex	medialorbitofrontal
+ADM2	1.99231	50.5579	-16.6595954164589	-999	ADM	R	depth	2.99175	50.2501	-13.6277	Right MFC medial frontal cortex	medialorbitofrontal
+ADM3	1.99231	50.5579	-16.6595954164589	-999	ADM	R	depth	2.99175	50.2501	-13.6277	Right MFC medial frontal cortex	medialorbitofrontal
+ADM4	1.99231	50.5579	-16.6595954164589	-999	ADM	R	depth	2.99175	50.2501	-13.6277	Right MFC medial frontal cortex	medialorbitofrontal
+ADM5	3.35502	50.6381	-15.7210518089943	-999	ADM	R	depth	4.06374	50.2554	-12.5956	Right MFC medial frontal cortex	medialorbitofrontal
+ADM6	3.35502	50.6381	-15.7210518089943	-999	ADM	R	depth	4.06374	50.2554	-12.5956	Right MFC medial frontal cortex	medialorbitofrontal
+ADM7	3.35502	50.6381	-15.7210518089943	-999	ADM	R	depth	4.06374	50.2554	-12.5956	Right MFC medial frontal cortex	medialorbitofrontal
+ADM8	3.35502	50.6381	-15.7210518089943	-999	ADM	R	depth	4.06374	50.2554	-12.5956	Right MFC medial frontal cortex	medialorbitofrontal
+ADM9	6.71594	49.5101	-12.1320840938729	-999	ADM	R	depth	6.17019	49.0774	-8.7068	Right MFC medial frontal cortex	medialorbitofrontal
+ADM10	6.71594	49.5101	-12.1320840938729	-999	ADM	R	depth	6.17019	49.0774	-8.7068	Right MFC medial frontal cortex	medialorbitofrontal
+ADM11	6.71594	49.5101	-12.1320840938729	-999	ADM	R	depth	6.17019	49.0774	-8.7068	Right MFC medial frontal cortex	medialorbitofrontal
+ADM12	6.71594	49.5101	-12.1320840938729	-999	ADM	R	depth	6.17019	49.0774	-8.7068	Right MFC medial frontal cortex	medialorbitofrontal
+ADM13	9.43003	48.7693	-3.43808044088506	-999	ADM	R	depth	7.97969	48.6989	-1.72681	Right MSFG superior frontal gyrus medial segment	medialorbitofrontal
+ADM14	9.43003	48.7693	-3.43808044088506	-999	ADM	R	depth	7.97969	48.6989	-1.72681	Right MSFG superior frontal gyrus medial segment	medialorbitofrontal
+ADM15	9.43003	48.7693	-3.43808044088506	-999	ADM	R	depth	7.97969	48.6989	-1.72681	Right MSFG superior frontal gyrus medial segment	medialorbitofrontal
+ADM16	9.43003	48.7693	-3.43808044088506	-999	ADM	R	depth	7.97969	48.6989	-1.72681	Right MSFG superior frontal gyrus medial segment	medialorbitofrontal
+PDM1	6.72032	36.5092	-17.5221277258111	-999	PDM	R	depth	6.41657	35.7385	-12.2309	Right MFC medial frontal cortex	medialorbitofrontal
+PDM2	6.72032	36.5092	-17.5221277258111	-999	PDM	R	depth	6.41657	35.7385	-12.2309	Right MFC medial frontal cortex	medialorbitofrontal
+PDM3	6.72032	36.5092	-17.5221277258111	-999	PDM	R	depth	6.41657	35.7385	-12.2309	Right MFC medial frontal cortex	medialorbitofrontal
+PDM4	6.72032	36.5092	-17.5221277258111	-999	PDM	R	depth	6.41657	35.7385	-12.2309	Right MFC medial frontal cortex	medialorbitofrontal
+PDM5	8.60098	37.0735	-15.2774387290795	-999	PDM	R	depth	7.32539	36.697	-10.111	Right MSFG superior frontal gyrus medial segment	medialorbitofrontal
+PDM6	8.60098	37.0735	-15.2774387290795	-999	PDM	R	depth	7.32539	36.697	-10.111	Right MSFG superior frontal gyrus medial segment	medialorbitofrontal
+PDM7	8.60098	37.0735	-15.2774387290795	-999	PDM	R	depth	7.32539	36.697	-10.111	Right MSFG superior frontal gyrus medial segment	medialorbitofrontal
+PDM8	8.60098	37.0735	-15.2774387290795	-999	PDM	R	depth	7.32539	36.697	-10.111	Right MSFG superior frontal gyrus medial segment	medialorbitofrontal
+PDM9	12.2035	36.8314	-10.1592730368903	-999	PDM	R	depth	8.05228	38.0145	-5.99088	Right Cerebral White Matter	rostralanteriorcingulate
+PDM10	12.2035	36.8314	-10.1592730368903	-999	PDM	R	depth	8.05228	38.0145	-5.99088	Right Cerebral White Matter	rostralanteriorcingulate
+PDM11	12.2035	36.8314	-10.1592730368903	-999	PDM	R	depth	8.05228	38.0145	-5.99088	Right Cerebral White Matter	rostralanteriorcingulate
+PDM12	12.2035	36.8314	-10.1592730368903	-999	PDM	R	depth	8.05228	38.0145	-5.99088	Right Cerebral White Matter	rostralanteriorcingulate
+PDM13	12.1984	38.1011	-2.49128901950094	-999	PDM	R	depth	9.88054	38.2364	0.19836	Right Cerebral White Matter	rostralanteriorcingulate
+PDM14	12.1984	38.1011	-2.49128901950094	-999	PDM	R	depth	9.88054	38.2364	0.19836	Right Cerebral White Matter	rostralanteriorcingulate
+PDM15	12.1984	38.1011	-2.49128901950094	-999	PDM	R	depth	9.88054	38.2364	0.19836	Right Cerebral White Matter	rostralanteriorcingulate
+PDM16	12.1984	38.1011	-2.49128901950094	-999	PDM	R	depth	9.88054	38.2364	0.19836	Right Cerebral White Matter	rostralanteriorcingulate
+PD1	5.71196	35.8036	-19.4808049251106	-999	PD	R	depth	6.07718	34.8218	-14.3202	Right MFC medial frontal cortex	medialorbitofrontal
+PD2	10.4224	37.3501	-12.8874583802408	-999	PD	R	depth	7.66477	37.6137	-8.02168	Right Cerebral White Matter	medialorbitofrontal
+PD3	12.6536	37.1928	-4.60383988064919	-999	PD	R	depth	9.44488	38.3421	-1.9572	Right Cerebral White Matter	rostralanteriorcingulate
+PD4	10.4193	40.335	3.5245638325244	-999	PD	R	depth	10.1155	37.9091	5.54559	Right Cerebral White Matter	rostralanteriorcingulate
+PD5	12.7121	40.6029	14.0506321736411	-999	PD	R	depth	14.0772	39.8672	12.4577	Right Cerebral White Matter	superiorfrontal
+PD6	15.2643	36.2033	24.3706918641731	-999	PD	R	depth	14.844	38.4018	19.8309	Right Cerebral White Matter	superiorfrontal
+PD7	14.2121	35.8773	31.7805106549637	-999	PD	R	depth	15.4183	39.0014	27.4703	Right Cerebral White Matter	superiorfrontal
+PD8	15.4365	34.4439	38.1474107857764	-999	PD	R	depth	18.5299	37.778	33.9157	Right Cerebral White Matter	superiorfrontal

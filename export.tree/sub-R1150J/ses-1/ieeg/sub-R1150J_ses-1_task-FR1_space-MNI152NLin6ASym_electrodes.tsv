@@ -1,0 +1,111 @@
+name	x	y	z	size	group	hemisphere	type	tal.x	tal.y	tal.z	wb.region	ind.region	das.region	stein.region
+LK1	-37.2265	8.55495	-13.8366468269732	-999	LK	L	depth	-33.8083	7.07699	-11.5767	Left AIns anterior insula	insula	n/a	n/a
+LK2	-36.3757	9.89892	-11.0201501980265	-999	LK	L	depth	-32.5476	8.51443	-9.5008	Left Cerebral White Matter	insula	n/a	n/a
+LK3	-36.3968	11.3324	-7.95112250792351	-999	LK	L	depth	-31.8066	10.0285	-7.01216	Left AIns anterior insula	insula	n/a	n/a
+LK4	-35.2953	14.8492	-4.9839901955595	-999	LK	L	depth	-30.1669	13.0018	-4.32294	Left Cerebral White Matter	insula	n/a	n/a
+LK5	-33.8765	16.3457	-1.58743009570814	-999	LK	L	depth	-28.9743	14.6366	-1.37041	Left Cerebral White Matter	insula	n/a	n/a
+LK6	-31.4669	19.0438	1.3004134843103	-999	LK	L	depth	-27.3004	17.5196	1.04738	Left Cerebral White Matter	lateralorbitofrontal	n/a	n/a
+LK7	-28.5558	20.2026	5.31131406249495	-999	LK	L	depth	-25.1369	19.2132	4.34448	Left Cerebral White Matter	lateralorbitofrontal	n/a	n/a
+LK8	-27.8038	22.8046	8.29937363436065	-999	LK	L	depth	-24.4681	22.1557	7.2471	Left Cerebral White Matter	lateralorbitofrontal	n/a	n/a
+LK9	-26.7304	24.4344	11.1356000838778	-999	LK	L	depth	-23.727	23.6819	9.97932	Left Cerebral White Matter	parstriangularis	n/a	n/a
+LK10	-23.5126	26.2331	13.665156765566	-999	LK	L	depth	-21.4954	25.174	12.3155	Left Cerebral White Matter	parstriangularis	n/a	n/a
+LK11	-22.1116	29.0392	16.2070658011877	-999	LK	L	depth	-20.7926	28.0156	14.7376	Left Cerebral White Matter	rostralmiddlefrontal	n/a	n/a
+LK12	-18.8255	30.1926	19.4588547290964	-999	LK	L	depth	-18.629	29.7092	18.0346	Left Cerebral White Matter	caudalanteriorcingulate	n/a	n/a
+LK13	-17.4284	32.1785	22.3315806577004	-999	LK	L	depth	-17.9475	32.2132	21.0406	Left Cerebral White Matter	superiorfrontal	n/a	n/a
+LK14	-14.8175	33.8644	25.0801562408428	-999	LK	L	depth	-16.2482	34.2222	23.7257	Left Cerebral White Matter	superiorfrontal	n/a	n/a
+LK15	-13.7801	35.1735	29.3929284328899	-999	LK	L	depth	-15.0557	35.8716	26.9665	Left Cerebral White Matter	superiorfrontal	n/a	n/a
+LK16	-13.9296	37.4122	34.8264342494009	-999	LK	L	depth	-13.4031	38.4199	30.0288	Left Cerebral White Matter	superiorfrontal	n/a	n/a
+LJ1	-43.9602	5.81493	-10.6365915784153	-999	LJ	L	depth	-39.2307	4.25598	-8.9924	Left AIns anterior insula	insula	n/a	n/a
+LJ2	-43.7637	2.7637	-9.7238776465715	-999	LJ	L	depth	-39.2098	1.38169	-7.44164	Left PIns posterior insula	insula	n/a	n/a
+LJ3	-43.4475	-1.19349	-9.61450734277818	-999	LJ	L	depth	-39.0954	-2.5678	-6.575	Left PIns posterior insula	insula	n/a	n/a
+LJ4	-43.7548	-3.99033	-8.2843376120953	-999	LJ	L	depth	-39.0746	-5.44217	-5.02425	Left PIns posterior insula	insula	n/a	n/a
+LJ5	-43.197	-7.38177	-7.69764683549939	-999	LJ	L	depth	-38.9601	-9.39162	-4.15762	Left PIns posterior insula	insula	n/a	n/a
+LJ6	-43.0042	-9.40261	-6.16051880405272	-999	LJ	L	depth	-38.952	-11.8271	-2.7031	Left PIns posterior insula	insula	n/a	n/a
+LJ7	-42.1408	-12.567	-5.37419809359213	-999	LJ	L	depth	-38.8375	-15.7766	-1.83647	Left PIns posterior insula	insula	n/a	n/a
+LJ8	-41.6881	-14.6538	-3.52473945302283	-999	LJ	L	depth	-38.8167	-18.6509	-0.285719	Left PIns posterior insula	insula	n/a	n/a
+LJ9	-40.702	-17.8185	-2.76302443376954	-999	LJ	L	depth	-38.7022	-22.6004	0.58092	Left PIns posterior insula	superiortemporal	n/a	n/a
+LJ10	-40.2734	-19.8786	-0.444428249576307	-999	LJ	L	depth	-38.7155	-25.3699	2.69347	Left PP planum polare	insula	n/a	n/a
+LJ11	-40.0129	-23.6655	0.405094645148303	-999	LJ	L	depth	-38.6011	-29.3161	3.62375	Left Cerebral White Matter	insula	n/a	n/a
+LJ12	-39.9824	-27.2832	0.962641280803308	-999	LJ	L	depth	-38.512	-32.3855	4.34717	Left Cerebral White Matter	insula	n/a	n/a
+LJ13	-40.2085	-31.4635	2.88316369612288	-999	LJ	L	depth	-38.4658	-36.1301	6.23834	Left Cerebral White Matter	bankssts	n/a	n/a
+LJ14	-40.541	-34.9083	3.30723578593668	-999	LJ	L	depth	-38.3767	-39.1993	6.96184	Left Cerebral White Matter	bankssts	n/a	n/a
+LJ15	-41.1922	-38.8381	5.26421866330625	-999	LJ	L	depth	-38.3304	-42.944	8.85292	Left Cerebral White Matter	bankssts	n/a	n/a
+LJ16	-41.0873	-41.8794	6.31960443297985	-999	LJ	L	depth	-38.2414	-46.0133	9.57642	Left Cerebral White Matter	bankssts	n/a	n/a
+LI1	-31.3017	12.8701	1.1133580649753	-999	LI	L	depth	-27.0115	11.8547	0.365962	Left Cerebral White Matter	insula	n/a	n/a
+LI2	-31.4216	9.6827	1.82376426762427	-999	LI	L	depth	-26.935	9.22385	0.986083	Left Putamen	insula	n/a	n/a
+LI3	-33.3473	5.574	3.12798099804572	-999	LI	L	depth	-27.8599	5.43484	2.82087	Left Cerebral White Matter	insula	n/a	n/a
+LI4	-33.7938	2.98044	3.56035556761158	-999	LI	L	depth	-27.7709	2.36549	3.54439	Left Cerebral White Matter	insula	n/a	n/a
+LI5	-33.7959	0.229336	4.15993991070512	-999	LI	L	depth	-27.6563	-1.5807	4.47467	Left Putamen	insula	n/a	n/a
+LI6	-33.8673	-1.50041	5.75777235412196	-999	LI	L	depth	-27.6356	-4.44841	6.15908	Left Putamen	insula	n/a	n/a
+LI7	-32.5034	-4.59942	6.19987052833367	-999	LI	L	depth	-27.5465	-7.51771	6.88258	Left Putamen	insula	n/a	n/a
+LI8	-31.9939	-8.33436	7.76466911452111	-999	LI	L	depth	-28.4713	-11.3068	8.71738	Left Putamen	insula	n/a	n/a
+LI9	-31.0234	-11.4169	8.70496369320155	-999	LI	L	depth	-28.3822	-14.3761	9.44089	Left Putamen	insula	n/a	n/a
+LI10	-30.5008	-14.9267	11.4558108397727	-999	LI	L	depth	-28.3701	-18.0198	11.8124	Left Cerebral White Matter	insula	n/a	n/a
+LI11	-29.9975	-17.7966	12.3226053133742	-999	LI	L	depth	-28.2811	-21.0891	12.5359	Left Cerebral White Matter	insula	n/a	n/a
+LI12	-29.6788	-21.4558	14.2775026590839	-999	LI	L	depth	-28.2348	-24.8338	14.4271	Left Cerebral White Matter	insula	n/a	n/a
+LI13	-29.871	-23.9582	14.8763001056064	-999	LI	L	depth	-28.1585	-27.4646	15.0472	Left Cerebral White Matter	insula	n/a	n/a
+LI14	-32.4016	-27.1531	16.2153558727814	-999	LI	L	depth	-29.5689	-31.2758	16.8539	Left TTG transverse temporal gyrus	insula	n/a	n/a
+LI15	-32.9822	-30.1549	16.7968548435012	-999	LI	L	depth	-29.4798	-34.3452	17.5775	Left Cerebral White Matter	superiortemporal	n/a	n/a
+LI16	-32.6858	-34.5763	18.8255118747727	-999	LI	L	depth	-29.4336	-38.0897	19.4685	Left Cerebral White Matter	superiortemporal	n/a	n/a
+LF1	-28.6362	9.64523	14.2983041790853	-999	LF	L	depth	-24.4872	10.9874	15.426	Left Cerebral White Matter	insula	n/a	n/a
+LF2	-32.6668	9.15824	12.8515550651703	-999	LF	L	depth	-27.8859	10.832	15.2291	Left Cerebral White Matter	insula	n/a	n/a
+LF3	-36.1661	10.2564	11.9686760451137	-999	LF	L	depth	-32.2939	11.9478	14.6659	Left CO central operculum	parsopercularis	n/a	n/a
+LF4	-38.7574	10.7463	12.3203540331419	-999	LF	L	depth	-35.7862	12.8709	15.2231	Left Cerebral White Matter	parsopercularis	n/a	n/a
+LF5	-42.7081	10.6109	13.0692207675331	-999	LF	L	depth	-40.1562	12.6712	14.9699	Left Cerebral White Matter	parsopercularis	n/a	n/a
+LF6	-46.0278	11.1213	14.8048495030038	-999	LF	L	depth	-43.5803	13.3927	14.5663	Left Cerebral White Matter	parsopercularis	n/a	n/a
+LF7	-50.5281	10.1075	15.7570778506813	-999	LF	L	depth	-47.9502	13.1929	14.3131	Left Cerebral White Matter	parsopercularis	n/a	n/a
+LF8	-53.8561	11.0812	17.1143902007477	-999	LF	L	depth	-50.957	14.1384	14.8985	Left Cerebral White Matter	parsopercularis	n/a	n/a
+LF9	-59.0027	14.2039	16.2266054398984	-999	LF	L	depth	-55.365	15.254	14.3353	Left Cerebral White Matter	parsopercularis	n/a	n/a
+LF10	-64.6584	17.0791	15.4003714794155	-999	LF	L	depth	-60.2458	15.909	13.8473	Left OpIFG opercular part of the inferior frontal gyrus	parsopercularis	n/a	n/a
+LM1	-24.4279	-8.54253	41.2968535613554	-999	LM	L	depth	-24.0009	-5.57419	35.0271	Left Cerebral White Matter	precentral	n/a	n/a
+LM2	-28.1172	-7.73741	40.0931338168326	-999	LM	L	depth	-27.3569	-5.05424	33.6626	Left Cerebral White Matter	precentral	n/a	n/a
+LM3	-30.4247	-6.34327	36.0781214532292	-999	LM	L	depth	-30.206	-4.17445	31.7424	Left Cerebral White Matter	insula	n/a	n/a
+LM4	-35.5535	-4.78723	29.2542239614531	-999	LM	L	depth	-34.4648	-3.90052	29.3608	Left Cerebral White Matter	insula	n/a	n/a
+LM5	-39.4325	-2.48113	26.8862437556976	-999	LM	L	depth	-37.8208	-3.38057	27.9963	Left Cerebral White Matter	precentral	n/a	n/a
+LM6	-42.9641	-0.933523	24.8302346644234	-999	LM	L	depth	-41.1427	-2.96145	26.1513	Left Cerebral White Matter	precentral	n/a	n/a
+LM7	-46.695	-0.429516	24.0959750577913	-999	LM	L	depth	-44.5114	-2.00305	24.6834	Left Cerebral White Matter	precentral	n/a	n/a
+LM8	-51.2065	-0.150392	23.6496768493116	-999	LM	L	depth	-47.8674	-1.4831	23.3189	Left Cerebral White Matter	precentral	n/a	n/a
+LM9	-54.8667	0.321351	22.9399862508052	-999	LM	L	depth	-50.7378	-0.940942	21.9826	Left Cerebral White Matter	precentral	n/a	n/a
+LM10	-58.1816	1.43915	20.3403241641207	-999	LM	L	depth	-53.9915	-0.723461	19.1766	Left Cerebral White Matter	precentral	n/a	n/a
+LM11	-61.915	3.38949	18.9201621459844	-999	LM	L	depth	-58.3313	0.190557	17.6525	Left Cerebral White Matter	precentral	n/a	n/a
+LM12	-64.4743	4.35974	17.2286465330577	-999	LM	L	depth	-60.7162	0.754904	16.3443	Left PrG precentral gyrus	precentral	n/a	n/a
+LS1	-24.0957	-12.4268	23.6840177309607	-999	LS	L	depth	-21.9264	-12.3997	22.0807	Left Cerebral White Matter	insula	n/a	n/a
+LS2	-28.012	-11.6332	22.316742587442	-999	LS	L	depth	-24.8396	-12.5328	21.912	Left Cerebral White Matter	insula	n/a	n/a
+LS3	-32.9544	-10.2843	22.0829800346871	-999	LS	L	depth	-29.2777	-12.531	22.6196	Left Cerebral White Matter	insula	n/a	n/a
+LS4	-36.067	-9.02386	21.6835122984708	-999	LS	L	depth	-32.6763	-12.6864	22.4227	Left Cerebral White Matter	insula	n/a	n/a
+LS5	-40.2205	-8.80821	22.9799062944581	-999	LS	L	depth	-37.1144	-12.6845	23.1305	Left Cerebral White Matter	postcentral	n/a	n/a
+LS6	-43.8955	-8.77742	23.4703085912221	-999	LS	L	depth	-40.5132	-12.8399	22.9336	Left Cerebral White Matter	postcentral	n/a	n/a
+LS7	-48.3489	-8.10264	24.7942960389363	-999	LS	L	depth	-44.9853	-12.7372	24.1217	Left Cerebral White Matter	postcentral	n/a	n/a
+LS8	-51.98	-7.54741	23.5130162746422	-999	LS	L	depth	-48.3841	-12.8925	23.9247	Left Cerebral White Matter	postcentral	n/a	n/a
+LS9	-56.7609	-8.24251	23.2048759033265	-999	LS	L	depth	-52.8221	-12.8907	24.6326	Left Cerebral White Matter	postcentral	n/a	n/a
+LS10	-60.8013	-9.73482	22.6600353073832	-999	LS	L	depth	-56.2209	-13.0461	24.4357	Left Cerebral White Matter	postcentral	n/a	n/a
+LS11	-65.4314	-10.3112	23.6730848613352	-999	LS	L	depth	-60.659	-13.0442	25.1433	Left PoG postcentral gyrus	postcentral	n/a	n/a
+LS12	-69.8767	-10.1754	24.764149731334	-999	LS	L	depth	-65.1224	-12.1654	25.6444	n/a	postcentral	n/a	n/a
+LC1	-28.126	-15.1485	-18.0067792381181	-999	LC	L	depth	-24.739	-18.0432	-13.8571	Left Hippocampus	n/a	DG	Left DG
+LC2	-33.7694	-17.1212	-18.8334937506254	-999	LC	L	depth	-30.1186	-20.184	-12.3422	Left Hippocampus	n/a	misc	Left CA1
+LC3	-37.7171	-19.6141	-19.6573293071638	-999	LC	L	depth	-34.4931	-22.3793	-11.2143	Left Hippocampus	n/a	BA36	Left PRC
+LC4	-42.6625	-20.826	-19.2581493085528	-999	LC	L	depth	-40.3369	-24.202	-10.2596	Left Cerebral White Matter	fusiform	n/a	n/a
+LC5	-46.4148	-21.3992	-18.7230882663457	-999	LC	L	depth	-44.7495	-25.0809	-9.42071	Left Cerebral White Matter	fusiform	n/a	n/a
+LC6	-50.3194	-23.5814	-19.4344747422749	-999	LC	L	depth	-50.095	-27.3205	-8.34412	Left Cerebral White Matter	inferiortemporal	n/a	n/a
+LC7	-55.1811	-25.1764	-18.3918546334902	-999	LC	L	depth	-54.5162	-28.9782	-6.87425	Left Cerebral White Matter	inferiortemporal	n/a	n/a
+LC8	-63.231	-27.6681	-16.7180270926194	-999	LC	L	depth	-59.8618	-31.2177	-5.79762	Left MTG middle temporal gyrus	inferiortemporal	n/a	n/a
+LA1	-17.8575	-4.10057	-16.1858552407215	-999	LA	L	depth	-14.8226	-7.92563	-15.4382	Left Amygdala	n/a	n/a	Left Amy
+LA2	-20.2656	-3.48468	-16.8764767769226	-999	LA	L	depth	-17.2757	-7.15827	-15.7588	Left Amygdala	n/a	n/a	Left Amy
+LA3	-24.2497	-2.01288	-19.5125046301787	-999	LA	L	depth	-21.641	-5.36019	-17.3472	Left Amygdala	n/a	n/a	Left Amy
+LA4	-27.4464	-0.39035	-21.3399814766437	-999	LA	L	depth	-25.1032	-3.3205	-18.0079	Left Amygdala	n/a	n/a	Left Amy
+LA5	-30.781	0.57798	-23.9613026224346	-999	LA	L	depth	-28.4847	-1.91711	-19.4489	Left Amygdala	n/a	n/a	Left Amy
+LA6	-34.1357	2.1908	-25.6732794013599	-999	LA	L	depth	-31.4615	0.144584	-20.0839	Left Cerebral White Matter	insula	n/a	n/a
+LA7	-38.1932	3.49039	-28.5255422809857	-999	LA	L	depth	-34.843	1.54797	-21.525	Left Cerebral White Matter	temporalpole	n/a	n/a
+LA8	-42.2778	4.80595	-29.6970653241135	-999	LA	L	depth	-38.2672	2.27114	-21.8967	Left Cerebral White Matter	temporalpole	n/a	n/a
+LA9	-45.1841	7.92685	-31.6143770362583	-999	LA	L	depth	-40.656	4.05879	-23.8211	Left Cerebral White Matter	temporalpole	n/a	n/a
+LA10	-48.5439	10.9499	-31.5816896528765	-999	LA	L	depth	-43.6202	5.6817	-24.3599	Left Cerebral White Matter	middletemporal	n/a	n/a
+LA11	-52.2731	14.5301	-31.8521434374451	-999	LA	L	depth	-47.0143	7.52396	-25.8972	Left TMP temporal pole	middletemporal	n/a	n/a
+LA12	-55.4708	17.015	-32.0406236539851	-999	LA	L	depth	-50.4766	9.56353	-26.5578	Left TMP temporal pole	middletemporal	n/a	n/a
+LD1	-31.764	-26.5325	-14.1053350734461	-999	LD	L	depth	-28.9916	-29.8381	-8.3228	Left Hippocampus	n/a	CA1	Left CA1
+LD2	-35.9033	-28.8424	-16.0611458759298	-999	LD	L	depth	-33.285	-32.6696	-7.97541	Left Cerebral White Matter	fusiform	n/a	n/a
+LD3	-40.0807	-31.2412	-16.1619533840852	-999	LD	L	depth	-37.5657	-35.94	-7.53169	Left Cerebral White Matter	fusiform	n/a	n/a
+LD4	-44.254	-33.5652	-16.7327865930607	-999	LD	L	depth	-41.8721	-38.3327	-7.28053	Left Cerebral White Matter	fusiform	n/a	n/a
+LD5	-48.085	-36.3873	-18.014286407962	-999	LD	L	depth	-46.1528	-41.6032	-6.83681	Left Cerebral White Matter	inferiortemporal	n/a	n/a
+LD6	-52.1709	-40.0445	-16.8987991178771	-999	LD	L	depth	-51.4173	-44.4788	-6.54053	Left Cerebral White Matter	inferiortemporal	n/a	n/a
+LD7	-57.9222	-42.9709	-12.6044792399805	-999	LD	L	depth	-56.2092	-46.8938	-6.31501	Left MTG middle temporal gyrus	inferiortemporal	n/a	n/a
+LD8	-63.2539	-46.71	-10.6062729999467	-999	LD	L	depth	-60.49	-50.1641	-5.87126	Left Cerebral White Matter	middletemporal	n/a	n/a

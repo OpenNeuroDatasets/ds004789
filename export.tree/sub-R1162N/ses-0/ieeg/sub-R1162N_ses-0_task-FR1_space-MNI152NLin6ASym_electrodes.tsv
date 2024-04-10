@@ -1,0 +1,87 @@
+name	x	y	z	size	group	hemisphere	type	tal.x	tal.y	tal.z	wb.region	ind.region	das.region	stein.region
+G1	14.7106	-89.7361	43.1855799271488	-999	G	R	depth	19.6027	-80.8916	46.3658	n/a	superiorparietal	n/a	n/a
+G2	21.137	-80.4759	44.9359774515831	-999	G	R	depth	28.5227	-73.8639	46.3441	n/a	superiorparietal	n/a	n/a
+G3	29.5492	-74.3923	42.3680402548101	-999	G	R	depth	34.8972	-66.3197	42.2836	n/a	inferiorparietal	n/a	n/a
+G4	41.5815	-67.519	38.0491501414614	-999	G	R	depth	42.8252	-59.0464	40.1944	n/a	inferiorparietal	n/a	n/a
+G5	49.1537	-61.8651	33.474908512091	-999	G	R	depth	51.3107	-52.3065	38.0585	n/a	inferiorparietal	n/a	n/a
+G6	54.3223	-57.018	30.3316065979507	-999	G	R	depth	57.6852	-44.7624	33.998	n/a	inferiorparietal	n/a	n/a
+G7	59.7168	-48.0677	28.0633299908383	-999	G	R	depth	60.4768	-36.7029	29.4083	n/a	supramarginal	n/a	n/a
+G8	61.9063	-35.9658	20.2732667433389	-999	G	R	depth	63.0555	-28.2789	23.7119	n/a	supramarginal	n/a	n/a
+G9	10.1728	-82.0747	52.7069904186188	-999	G	R	depth	15.5586	-73.5321	54.1332	n/a	superiorparietal	n/a	n/a
+G10	17.5577	-76.8021	51.6779739939703	-999	G	R	depth	23.691	-67.6399	53.2495	n/a	superiorparietal	n/a	n/a
+G11	24.778	-71.7168	49.328915699157	-999	G	R	depth	30.8488	-59.4686	50.1005	n/a	inferiorparietal	n/a	n/a
+G12	34.216	-63.3557	48.4765474600518	-999	G	R	depth	38.99	-52.5596	49.1179	n/a	inferiorparietal	n/a	n/a
+G13	42.0038	-57.2377	45.2730935691773	-999	G	R	depth	46.6963	-45.9386	46.0211	n/a	inferiorparietal	n/a	n/a
+G14	51.1102	-51.0471	41.212895189779	-999	G	R	depth	53.6369	-37.9112	41.8149	n/a	inferiorparietal	n/a	n/a
+G15	56.2576	-37.0092	34.3089449414379	-999	G	R	depth	55.0836	-30.4538	36.4099	n/a	supramarginal	n/a	n/a
+G16	59.4042	-28.4631	24.4041104863148	-999	G	R	depth	56.3216	-22.1235	29.849	n/a	supramarginal	n/a	n/a
+G17	4.2063	-73.1072	58.2309837808724	-999	G	R	depth	10.1826	-65.2493	60.937	n/a	superiorparietal	n/a	n/a
+G18	12.1323	-69.8721	58.5983663671306	-999	G	R	depth	19.421	-61.441	60.059	n/a	superiorparietal	n/a	n/a
+G19	24.1899	-68.0601	56.6014139376653	-999	G	R	depth	27.3578	-53.151	57.8707	n/a	superiorparietal	n/a	n/a
+G20	30.9445	-60.7014	55.8769248432487	-999	G	R	depth	34.9372	-46.2169	56.9842	n/a	superiorparietal	n/a	n/a
+G21	41.6857	-48.6726	54.4808233806963	-999	G	R	depth	42.4307	-39.2314	52.7809	n/a	inferiorparietal	n/a	n/a
+G22	51.1746	-39.4207	49.4415978726555	-999	G	R	depth	47.682	-31.637	48.9129	n/a	supramarginal	n/a	n/a
+G23	54.5046	-31.1202	42.9262641315478	-999	G	R	depth	51.5926	-24.1361	44.1802	n/a	supramarginal	n/a	n/a
+G24	57.4846	-20.7105	33.027720525081	-999	G	R	depth	54.5199	-15.373	37.281	n/a	postcentral	n/a	n/a
+G25	-0.0208166	-66.6609	62.4954130042509	-999	G	L	depth	4.71217	-57.9321	64.5228	n/a	precuneus	n/a	n/a
+G26	9.75484	-61.9173	66.6378521559662	-999	G	R	depth	14.0494	-52.65	66.8132	n/a	superiorparietal	n/a	n/a
+G27	17.3378	-57.8267	65.4231590701022	-999	G	R	depth	21.9645	-46.9018	64.8724	n/a	superiorparietal	n/a	n/a
+G28	26.6492	-51.6409	63.4208570305974	-999	G	R	depth	30.1056	-39.9929	63.8898	n/a	superiorparietal	n/a	n/a
+G29	42.885	-40.3643	63.0475740848035	-999	G	R	depth	37.472	-32.6945	61.8967	n/a	superiorparietal	n/a	n/a
+G30	47.4183	-36.4977	55.8886756886125	-999	G	R	depth	43.6293	-25.2943	56.7792	n/a	postcentral	n/a	n/a
+G31	46.6552	-23.7814	52.9546634981309	-999	G	R	depth	47.5529	-16.2683	51.8982	n/a	postcentral	n/a	n/a
+G32	49.1188	-14.4039	45.1366687083463	-999	G	R	depth	50.1228	-8.86104	46.3008	n/a	postcentral	n/a	n/a
+ATT1	14.6987	-10.6848	-28.4228416046686	-999	ATT	R	strip	19.6826	-10.7225	-21.4863	n/a	entorhinal	n/a	n/a
+ATT2	16.0243	0.0455154	-33.7339885577011	-999	ATT	R	strip	19.1127	-1.47947	-25.2814	n/a	n/a	n/a	n/a
+ATT3	17.7128	10.8037	-34.8541136847903	-999	ATT	R	strip	21.0027	7.29539	-28.4152	n/a	temporalpole	n/a	n/a
+ATT4	20.7636	20.1572	-36.2012610699296	-999	ATT	R	strip	25.3606	16.6192	-30.9827	n/a	temporalpole	n/a	n/a
+ATT5	28.7744	23.481	-39.424250304684	-999	ATT	R	strip	34.3733	19.2743	-32.6711	n/a	temporalpole	n/a	n/a
+ATT6	42.8316	22.5913	-37.3638658353648	-999	ATT	R	strip	46.3682	16.8604	-33.3593	n/a	temporalpole	n/a	n/a
+ATT7	52.8021	15.1833	-36.7865300511402	-999	ATT	R	strip	54.8274	10.322	-31.0772	n/a	middletemporal	n/a	n/a
+ATT8	58.6645	5.74719	-37.2747532056087	-999	ATT	R	strip	58.7714	1.43907	-27.856	n/a	middletemporal	n/a	n/a
+PLT1	65.7026	-54.3383	10.7087505583381	-999	PLT	R	strip	66.088	-52.9904	13.3497	n/a	inferiorparietal	n/a	n/a
+PLT2	69.2534	-47.4419	4.20036479823789	-999	PLT	R	strip	70.13	-45.2942	6.35715	n/a	middletemporal	n/a	n/a
+PLT3	73.1523	-41.2293	-2.50242189868314	-999	PLT	R	strip	72.4828	-38.0214	-0.106375	n/a	middletemporal	n/a	n/a
+PLT4	73.3969	-32.7265	-8.02069547004705	-999	PLT	R	strip	71.4655	-30.5824	-5.68862	n/a	middletemporal	n/a	n/a
+PLT5	71.7803	-21.2524	-15.5151119563669	-999	PLT	R	strip	69.112	-22.7248	-12.1076	n/a	inferiortemporal	n/a	n/a
+PLT6	68.3665	-16.72	-25.9948992879172	-999	PLT	R	strip	66.5282	-16.532	-19.349	n/a	inferiortemporal	n/a	n/a
+AST1	19.366	12.0039	-43.5310305637299	-999	AST	R	strip	26.402	6.90879	-30.2574	n/a	temporalpole	n/a	n/a
+AST2	28.6298	12.0168	-45.9144413217871	-999	AST	R	strip	34.5024	3.92192	-35.3306	n/a	inferiortemporal	n/a	n/a
+AST3	42.8619	8.43421	-46.582381874399	-999	AST	R	strip	46.0628	1.22942	-37.9483	n/a	middletemporal	n/a	n/a
+AST4	51.6849	6.33567	-43.3569438682365	-999	AST	R	strip	54.7695	-1.61046	-35.0333	n/a	middletemporal	n/a	n/a
+PST1	19.0632	-1.19687	-41.9259058069425	-999	PST	R	strip	23.8888	-4.04707	-34.9221	n/a	entorhinal	n/a	n/a
+PST2	27.9218	-5.84514	-46.9438333209862	-999	PST	R	strip	32.402	-9.29764	-37.8288	n/a	inferiortemporal	n/a	n/a
+PST3	41.0709	-7.25849	-46.6559357273221	-999	PST	R	strip	43.4997	-10.5058	-37.4716	n/a	inferiortemporal	n/a	n/a
+PST4	52.3275	-7.41241	-44.5960001476375	-999	PST	R	strip	53.7899	-10.0657	-33.0872	n/a	inferiortemporal	n/a	n/a
+AD1	14.7164	-5.29042	-25.3680148431244	-999	AD	R	depth	15.441	-6.31758	-20.1989	Right PHG parahippocampal gyrus	n/a	n/a	n/a
+AD2	19.4064	-5.19909	-25.4964498431449	-999	AD	R	depth	21.275	-6.42557	-20.1115	Right Hippocampus	n/a	CA1	Right CA1
+AD3	24.0014	-6.04656	-26.0143205107022	-999	AD	R	depth	26.8831	-7.68984	-20.8942	Right Hippocampus	n/a	CA1	n/a
+AD4	29.6721	-7.24541	-26.4638818028991	-999	AD	R	depth	31.585	-8.76532	-20.5366	Right Hippocampus	n/a	n/a	n/a
+PD1	19.5419	-22.9136	-21.4486547792032	-999	PD	R	depth	20.6567	-23.2462	-15.4299	Right PHG parahippocampal gyrus	parahippocampal	n/a	Right EC
+PD2	23.26	-21.4523	-22.8740390169564	-999	PD	R	depth	25.1673	-21.4102	-16.3215	Right Cerebral White Matter	parahippocampal	n/a	Right MTL WM
+PD3	26.3108	-17.6342	-24.1100481867967	-999	PD	R	depth	29.4693	-18.6965	-18.2727	Right Cerebral White Matter	n/a	n/a	Right CA1
+PD4	30.1996	-16.5019	-26.4012296957713	-999	PD	R	depth	33.9799	-16.8605	-19.1643	Right PHG parahippocampal gyrus	parahippocampal	BA36	Right PRC
+SF1	47.1836	45.3043	25.7127506308737	-999	SF	R	strip	45.8282	50.2548	22.534	n/a	rostralmiddlefrontal	n/a	n/a
+SF2	46.5081	38.1406	33.3282878350239	-999	SF	R	strip	48.8619	41.0709	27.3179	n/a	rostralmiddlefrontal	n/a	n/a
+SF3	50.0656	31.0384	36.4499130004197	-999	SF	R	strip	53.8023	32.4639	32.8208	n/a	rostralmiddlefrontal	n/a	n/a
+SF4	55.9752	18.4428	37.2414948363631	-999	SF	R	strip	56.6101	22.1194	36.6466	n/a	rostralmiddlefrontal	n/a	n/a
+SF5	53.3283	11.0127	45.5126655351651	-999	SF	R	strip	57.1843	13.4006	40.7087	n/a	caudalmiddlefrontal	n/a	n/a
+SF6	58.9575	-4.1033	45.5059056889963	-999	SF	R	strip	55.9745	3.28354	41.891	n/a	precentral	n/a	n/a
+IF1	55.8657	37.4833	12.5166766877644	-999	IF	R	strip	57.2195	42.815	7.93938	n/a	parstriangularis	n/a	n/a
+IF2	59.2309	27.9128	18.6577421630866	-999	IF	R	strip	61.3853	34.5975	12.4319	n/a	parsopercularis	n/a	n/a
+IF3	61.3013	21.0124	21.4768395224421	-999	IF	R	strip	63.5172	26.1164	18.4158	n/a	parsopercularis	n/a	n/a
+IF4	63.1526	7.6447	28.0796838496517	-999	IF	R	strip	65.2017	15.8221	22.4339	n/a	precentral	n/a	n/a
+IF5	63.8343	-0.0906435	30.6254584476354	-999	IF	R	strip	63.5206	6.18716	26.9799	n/a	precentral	n/a	n/a
+IF6	64.9905	-9.06113	33.716885727935	-999	IF	R	strip	61.8436	-2.93934	31.4763	n/a	postcentral	n/a	n/a
+ILT1	47.4115	-86.1879	-5.12788697886302	-999	ILT	R	strip	48.4512	-83.9338	-0.135263	n/a	lateraloccipital	n/a	n/a
+ILT2	48.0234	-86.1594	7.62243968001457	-999	ILT	R	strip	49.5178	-80.4312	10.0177	n/a	lateraloccipital	n/a	n/a
+ILT3	49.8034	-81.568	16.9211344772352	-999	ILT	R	strip	52.6137	-77.1527	19.1408	n/a	lateraloccipital	n/a	n/a
+ILT4	49.5572	-78.0522	27.6169017350476	-999	ILT	R	strip	50.1189	-70.5724	28.9289	n/a	inferiorparietal	n/a	n/a
+MLT1	70.9451	-40.8559	7.16685072005394	-999	MLT	R	strip	72.1743	-38.6683	9.79902	n/a	middletemporal	n/a	n/a
+MLT2	68.7472	-48.825	13.3363635942866	-999	MLT	R	strip	69.0382	-46.5587	15.5421	n/a	inferiorparietal	n/a	n/a
+MLT3	62.9951	-57.1575	16.7622263588136	-999	MLT	R	strip	64.2216	-53.8653	21.5242	n/a	inferiorparietal	n/a	n/a
+MLT4	57.7857	-67.7891	23.8867552569078	-999	MLT	R	strip	57.1756	-59.0378	27.6932	n/a	inferiorparietal	n/a	n/a
+SLT1	71.7188	-18.6375	-11.2165978766745	-999	SLT	R	strip	72.7055	-16.9031	-7.14417	n/a	middletemporal	n/a	n/a
+SLT2	73.402	-27.5716	-3.92108700765659	-999	SLT	R	strip	73.94	-24.2027	-0.597184	n/a	middletemporal	n/a	n/a
+SLT3	71.3423	-33.0276	4.80390310582971	-999	SLT	R	strip	72.9322	-30.8726	6.70062	n/a	middletemporal	n/a	n/a
+SLT4	70.2719	-43.4234	13.621461785079	-999	SLT	R	strip	69.1203	-36.8998	14.6017	n/a	superiortemporal	n/a	n/a
