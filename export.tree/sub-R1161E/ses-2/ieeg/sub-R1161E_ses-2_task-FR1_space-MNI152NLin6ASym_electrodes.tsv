@@ -1,0 +1,71 @@
+name	x	y	z	size	group	hemisphere	type	tal.x	tal.y	tal.z	wb.region	ind.region	das.region	stein.region
+L1D1	-28.457	-58.0905	33.7094769403952	-999	L1D	L	depth	-27.1165	-56.6543	34.986	Left Cerebral White Matter	superiorparietal	n/a	n/a
+L1D2	-32.7588	-62.3901	31.4542254753214	-999	L1D	L	depth	-32.012	-59.2119	33.3826	Left Cerebral White Matter	inferiorparietal	n/a	n/a
+L1D3	-33.412	-66.8785	30.0285268900972	-999	L1D	L	depth	-36.3369	-61.7069	31.7744	Left AnG angular gyrus	inferiorparietal	n/a	n/a
+L1D4	-37.5682	-70.6177	27.5106693731672	-999	L1D	L	depth	-41.8	-64.3555	31.5924	Left Cerebral White Matter	inferiorparietal	n/a	n/a
+L1D5	-43.6669	-75.5236	26.2917129098183	-999	L1D	L	depth	-46.0018	-67.877	30.5767	Left Cerebral White Matter	inferiorparietal	n/a	n/a
+L1D6	-49.4417	-75.5099	26.6772709275195	-999	L1D	L	depth	-50.263	-70.9066	30.3271	Left MOG middle occipital gyrus	inferiorparietal	n/a	n/a
+L3D1	-43.0058	-38.224	36.0358174437994	-999	L3D	L	depth	-46.2808	-36.6768	36.1986	Left Cerebral White Matter	supramarginal	n/a	n/a
+L3D2	-47.4184	-39.5272	33.9212317599619	-999	L3D	L	depth	-50.4841	-40.1839	34.4747	Left Cerebral White Matter	supramarginal	n/a	n/a
+L3D3	-53.219	-42.0795	33.686070876015	-999	L3D	L	depth	-54.806	-42.7076	34.2828	Left Cerebral White Matter	supramarginal	n/a	n/a
+L3D4	-59.0275	-48.9953	32.6211675464419	-999	L3D	L	depth	-59.4553	-47.3179	33.8647	Left SMG supramarginal gyrus	inferiorparietal	n/a	n/a
+L5D1	-23.5435	-72.8741	35.3455552550432	-999	L5D	L	depth	-20.5447	-72.8684	33.7468	Left Cerebral White Matter	precuneus	n/a	n/a
+L5D2	-25.4113	-76.1138	32.6066073726656	-999	L5D	L	depth	-26.0092	-75.5028	32.8567	Left Cerebral White Matter	superiorparietal	n/a	n/a
+L5D3	-30.9537	-79.4973	32.7375714815747	-999	L5D	L	depth	-32.1646	-77.2017	32.7953	Left MOG middle occipital gyrus	superiorparietal	n/a	n/a
+L5D4	-35.6073	-83.0027	30.672860939681	-999	L5D	L	depth	-36.3679	-80.7088	31.0714	Left MOG middle occipital gyrus	inferiorparietal	n/a	n/a
+L5D5	-41.8407	-85.4728	28.2843623116847	-999	L5D	L	depth	-41.9556	-82.3167	29.5885	n/a	inferiorparietal	n/a	n/a
+L5D6	-46.3725	-86.0301	27.4772131945045	-999	L5D	L	depth	-46.399	-83.8283	29.5124	n/a	inferiorparietal	n/a	n/a
+L5D7	-51.3137	-87.2617	26.0977630553684	-999	L5D	L	depth	-51.293	-86.4002	28.6173	n/a	inferiorparietal	n/a	n/a
+L5D8	-55.671	-89.0123	25.6373517198036	-999	L5D	L	depth	-55.6149	-88.9239	28.4255	n/a	inferiorparietal	n/a	n/a
+L5D9	-58.9684	-89.8237	23.9300100658049	-999	L5D	L	depth	-58.9199	-90.2819	26.923	n/a	inferiorparietal	n/a	n/a
+L5D10	-63.5595	-90.8213	21.4954278936206	-999	L5D	L	depth	-63.3679	-91.7506	24.7221	n/a	lateraloccipital	n/a	n/a
+L7D1	-13.5092	-85.5357	28.0128281037574	-999	L7D	L	depth	-11.699	-88.7471	28.2385	Left Cerebral White Matter	lateraloccipital	n/a	n/a
+L7D2	-19.4331	-88.9463	30.2846155684784	-999	L7D	L	depth	-17.1622	-91.3956	28.0566	Left SOG superior occipital gyrus	lateraloccipital	n/a	n/a
+L7D3	-23.8126	-93.6678	26.8304271854877	-999	L7D	L	depth	-21.4855	-93.9049	27.1565	Left OCP occipital pole	lateraloccipital	n/a	n/a
+L7D4	-28.8432	-95.8925	24.5400762464327	-999	L7D	L	depth	-27.5193	-96.6159	26.9795	n/a	lateraloccipital	n/a	n/a
+L7D5	-34.0037	-98.234	22.2771806550662	-999	L7D	L	depth	-32.9855	-99.2358	25.3811	n/a	lateraloccipital	n/a	n/a
+L7D6	-38.1991	-101.791	21.6170660497187	-999	L7D	L	depth	-37.1858	-102.772	25.0737	n/a	lateraloccipital	n/a	n/a
+L7D7	-42.4981	-104.35	21.1962220692409	-999	L7D	L	depth	-41.5077	-105.295	24.8818	n/a	lateraloccipital	n/a	n/a
+L7D8	-45.6053	-106.931	22.369220877046	-999	L7D	L	depth	-44.6854	-107.723	26.0967	n/a	lateraloccipital	n/a	n/a
+L7D9	-49.4417	-109.478	22.0664831215928	-999	L7D	L	depth	-48.4367	-110.184	25.8999	n/a	lateraloccipital	n/a	n/a
+L7D10	-53.9856	-111.076	21.9566529737801	-999	L7D	L	depth	-52.8802	-111.695	25.8238	n/a	lateraloccipital	n/a	n/a
+L9D1	-49.6293	-54.0669	27.689417971388	-999	L9D	L	depth	-50.475	-49.8807	31.2613	Left AnG angular gyrus	supramarginal	n/a	n/a
+L9D2	-53.676	-57.0986	29.7246526299267	-999	L9D	L	depth	-53.5297	-53.3344	33.0687	Left AnG angular gyrus	inferiorparietal	n/a	n/a
+L9D3	-58.2176	-59.5326	34.0249559325793	-999	L9D	L	depth	-57.1523	-56.8792	36.2976	Left AnG angular gyrus	inferiorparietal	n/a	n/a
+L9D4	-60.436	-63.695	37.170046278626	-999	L9D	L	depth	-60.0825	-61.3739	39.4058	n/a	inferiorparietal	n/a	n/a
+L9D5	-63.3625	-67.2108	40.6071632024499	-999	L9D	L	depth	-63.1344	-64.8562	42.6297	n/a	inferiorparietal	n/a	n/a
+L9D6	-66.5109	-70.6512	42.6785816213232	-999	L9D	L	depth	-66.1891	-68.31	44.4372	n/a	inferiorparietal	n/a	n/a
+L9D7	-69.75	-74.0509	44.7769346945921	-999	L9D	L	depth	-69.2439	-71.7639	46.2447	n/a	inferiorparietal	n/a	n/a
+L9D8	-73.1406	-77.0301	46.9595317460782	-999	L9D	L	depth	-72.3595	-74.7116	48.1099	n/a	inferiorparietal	n/a	n/a
+L9D9	-72.8593	-82.6235	51.735657732476	-999	L9D	L	depth	-71.7415	-79.8722	52.4894	n/a	inferiorparietal	n/a	n/a
+L9D10	-78.0903	-82.8892	50.3066538865257	-999	L9D	L	depth	-76.88	-80.4056	51.1173	n/a	inferiorparietal	n/a	n/a
+L11D1	-39.8369	-60.7097	27.9245894599137	-999	L11D	L	depth	-40.3698	-57.0069	31.6737	Left Cerebral White Matter	inferiorparietal	n/a	n/a
+L11D2	-44.8389	-64.3082	27.1331061031592	-999	L11D	L	depth	-45.8329	-59.6554	31.4918	Left Cerebral White Matter	inferiorparietal	n/a	n/a
+L11D3	-49.7445	-66.095	27.8721644597595	-999	L11D	L	depth	-50.1549	-62.1791	31.3001	Left Cerebral White Matter	inferiorparietal	n/a	n/a
+L11D4	-56.0946	-67.0287	28.5648732280613	-999	L11D	L	depth	-56.1886	-64.8902	31.1231	n/a	inferiorparietal	n/a	n/a
+L11D5	-60.4418	-67.8807	28.7014730873597	-999	L11D	L	depth	-60.6321	-66.4018	31.0469	n/a	inferiorparietal	n/a	n/a
+L11D6	-65.9705	-69.9761	28.5720308587633	-999	L11D	L	depth	-66.0952	-69.0503	30.865	n/a	inferiorparietal	n/a	n/a
+L11D7	-70.2761	-73.3711	26.7041220183333	-999	L11D	L	depth	-70.2378	-73.0635	29.0832	n/a	inferiorparietal	n/a	n/a
+L11D8	-73.7406	-74.7783	28.0897093719944	-999	L11D	L	depth	-73.537	-74.4788	30.4137	n/a	inferiorparietal	n/a	n/a
+L11D9	-79.1687	-75.3534	28.9580932598502	-999	L11D	L	depth	-78.6712	-75.0551	31.1663	n/a	inferiorparietal	n/a	n/a
+L11D10	-82.6265	-77.5513	27.9675936182059	-999	L11D	L	depth	-81.8533	-77.4397	30.2565	n/a	inferiorparietal	n/a	n/a
+L13HD1	-29.5495	-6.41563	-21.2831433503218	-999	L13HD	L	depth	-29.16	-10.4944	-16.4216	Left Hippocampus	n/a	CA1	Left CA1
+L13HD2	-33.4597	-9.96496	-20.0208405859525	-999	L13HD	L	depth	-32.2163	-13.938	-15.4028	Left Hippocampus	n/a	DG	Left DG
+L13HD3	-36.4811	-14.5623	-19.6846131970163	-999	L13HD	L	depth	-35.723	-18.4379	-15.1274	Left Hippocampus	n/a	DG	Left DG
+L13HD4	-38.1601	-19.1374	-18.3111384339831	-999	L13HD	L	depth	-38.6562	-22.9101	-13.5629	Left Hippocampus	n/a	CA1	Left CA1
+L13HD5	-40.0258	-23.7624	-17.8755345314786	-999	L13HD	L	depth	-41.5301	-27.8708	-12.6959	Left Cerebral White Matter	n/a	n/a	n/a
+L13HD6	-42.1634	-27.1702	-16.7923048462337	-999	L13HD	L	depth	-44.5863	-31.3143	-11.6772	Left Cerebral White Matter	fusiform	n/a	n/a
+L13HD7	-45.5437	-31.855	-16.9509951584813	-999	L13HD	L	depth	-47.5196	-35.7866	-10.1127	Left Cerebral White Matter	inferiortemporal	n/a	n/a
+L13HD8	-48.8095	-36.2727	-17.5537360453525	-999	L13HD	L	depth	-50.4557	-40.2241	-9.84211	Left Cerebral White Matter	inferiortemporal	n/a	n/a
+L13HD9	-50.1714	-41.5825	-17.6709132783926	-999	L13HD	L	depth	-52.249	-44.5541	-8.93406	Left Cerebral White Matter	inferiortemporal	n/a	n/a
+L13HD10	-53.2646	-46.8604	-17.5009581394024	-999	L13HD	L	depth	-55.8152	-48.5657	-7.96102	Left ITG inferior temporal gyrus	inferiortemporal	n/a	n/a
+L15D1	-56.1756	-37.0216	33.5356966326975	-999	L15D	L	depth	-57.004	-38.8466	34.7603	Left SMG supramarginal gyrus	supramarginal	n/a	n/a
+L15D2	-61.7109	-37.5403	33.5624964784646	-999	L15D	L	depth	-61.812	-37.3219	35.0309	Left SMG supramarginal gyrus	supramarginal	n/a	n/a
+L15D3	-66.5148	-37.6084	32.9240753689649	-999	L15D	L	depth	-67.6399	-36.9342	35.1959	n/a	supramarginal	n/a	n/a
+L15D4	-71.6731	-37.8021	32.0657201216163	-999	L15D	L	depth	-73.4692	-36.5323	34.6526	n/a	supramarginal	n/a	n/a
+L15D5	-76.732	-36.661	32.5743034788917	-999	L15D	L	depth	-78.2772	-35.0077	34.9233	n/a	supramarginal	n/a	n/a
+L15D6	-83.5842	-36.4307	33.4431959167153	-999	L15D	L	depth	-84.6756	-34.6824	35.0933	n/a	supramarginal	n/a	n/a
+L15D7	-88.5283	-36.0294	34.8763229271444	-999	L15D	L	depth	-89.3607	-34.1842	35.9565	n/a	supramarginal	n/a	n/a
+L15D8	-93.7389	-33.8775	32.465311995551	-999	L15D	L	depth	-94.1746	-32.6023	33.3943	n/a	supramarginal	n/a	n/a
+L15D9	-97.5799	-33.1139	33.5415892325768	-999	L15D	L	depth	-97.7184	-31.9792	34.2478	n/a	supramarginal	n/a	n/a
+L15D10	-101.481	-31.9702	35.4531593086331	-999	L15D	L	depth	-101.322	-30.8643	35.8673	n/a	supramarginal	n/a	n/a
